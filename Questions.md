@@ -225,3 +225,126 @@ supervisord -n -c supervisor.conf
   * Không phụ thuộc vào terminal session
 
 Đó là lý do tôi gợi ý cả 2 cách, tùy vào mục đích sử dụng của bạn.
+
+
+---
+
+## Question 4: Tách API và Web server cho nhiều VPS
+
+Hiện tại tôi đã start tốt với supervisord -n -c supervisor.conf
+Tuy nhiên, có thể api và web của tôi sẽ đặt trên 2 vps khác nhau.
+Nếu vậy tôi sẽ cần làm gì
+
+---
+
+
+
+Bạn sẽ cần tách cấu hình supervisor và điều chỉnh các endpoint. Đây là cách thực hiện:
+
+##### 1. Cho VPS chạy API
+
+Tạo file supervisor config cho API:
+
+```
+[supervisord]
+logfile=./logs/supervisord.log
+logfile_maxbytes=50MB
+logfile_backups=10
+loglevel=info
+pidfile=supervisord.pid
+nodaemon=true
+minfds=1024
+minprocs=200
+
+[program:db-monitor-api]
+command=hypercorn api:app -b 0.0.0.0:5001
+directory=/Users/apple/Workspace/anhdh.write/py-databackup
+user=apple
+autostart=true
+autorestart=true
+stderr_logfile=./logs/db-monitor-api.err.log
+stdout_logfile=./logs/db-monitor-api.out.log
+numprocs=1
+process_name=%(program_name)s_%(process_num)02d
+```
+
+##### 2. Cho VPS chạy Web
+
+Tạo file supervisor config cho Web:
+
+```
+[supervisord]
+logfile=./logs/supervisord.log
+logfile_maxbytes=50MB
+logfile_backups=10
+loglevel=info
+pidfile=supervisord.pid
+nodaemon=true
+minfds=1024
+minprocs=200
+
+[program:db-monitor-web]
+command=gunicorn web:app -b 0.0.0.0:4444 --workers=4
+directory=/Users/apple/Workspace/anhdh.write/py-databackup
+user=apple
+autostart=true
+autorestart=true
+stderr_logfile=./logs/db-monitor-web.err.log
+stdout_logfile=./logs/db-monitor-web.out.log
+numprocs=1
+process_name=%(program_name)s_%(process_num)02d
+```
+
+##### 3. Sửa file `index.html` để trỏ đến API VPS:
+
+```
+<script>
+    // Thay đổi API_HOST thành IP của VPS chạy API
+    const API_HOST = 'api-vps-ip:5001';
+    // ...existing code...
+</script>
+```
+
+##### 4. Khởi động trên từng VPS:
+
+Trên VPS chạy API:
+
+```
+supervisord -n -c supervisor.api.conf
+```
+
+Trên VPS chạy Web:
+
+```
+supervisord -n -c supervisor.web.conf
+```
+
+##### 5. Cấu hình bảo mật:
+
+1. Trên API VPS:
+
+   ```
+   # Allow connections from web VPS IP only
+   sudo ufw allow from web-vps-ip to any port 5001
+   ```
+2. Trên Web VPS:
+
+   ```
+   # Allow connections from all IPs to web port
+   sudo ufw allow 4444
+   ```
+
+##### 6. Kiểm tra kết nối:
+
+```
+# Test từ Web VPS đến API VPS
+curl http://api-vps-ip:5001/api/connections
+```
+
+**Lưu ý quan trọng:**
+
+1. Thay đổi `api-vps-ip` thành IP thực của VPS chạy API
+2. Cấu hình CORS trong API để chấp nhận requests từ Web domain
+3. Sử dụng HTTPS cho production
+4. Cân nhắc sử dụng Nginx làm reverse proxy
+5. Backup data và logs định kỳ

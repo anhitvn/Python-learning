@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Database Monitor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <style>
+        .status-connected { color: #198754; }
+        .status-failed { color: #dc3545; }
+        .speed-high { color: #198754; }
+        .speed-medium { color: #ffc107; }
+        .speed-low { color: #dc3545; }
+        .refresh-btn { position: fixed; bottom: 20px; right: 20px; }
+        .refresh-btn.loading i { animation: spin 1s linear infinite; }
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Database Connections Status <small class="text-muted" id="last-update"></small></h2>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Database Name</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                        <th>Host</th>
+                        <th>Speed</th>
+                    </tr>
+                </thead>
+                <tbody id="connections-table"></tbody>
+            </table>
+        </div>
+        <button class="btn btn-primary refresh-btn">
+            <i class="fas fa-sync-alt"></i> Refresh
+        </button>
+    </div>
+
+    <script>
+        const API_HOST = 'localhost:5001';
+        let isLoading = false;
+
+        function getSpeedClass(speed) {
+            if (speed === 'Testing...' || speed === 'N/A') return 'speed-low';
+            const value = parseFloat(speed);
+            if (value >= 1.0) return 'speed-high';
+            if (value >= 0.76) return 'speed-medium';
+            return 'speed-low';
+        }
+
+        async function loadConnections() {
+            if (isLoading) return;
+            isLoading = true;
+
+            const refreshBtn = document.querySelector('.refresh-btn');
+            refreshBtn.classList.add('loading');
+
+            try {
+                // Clear existing data
+                const tbody = document.getElementById('connections-table');
+                tbody.innerHTML = '';
+                
+                // Get initial connections
+                const response = await fetch(`http://${API_HOST}/api/connections`);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                const data = await response.json();
+                
+                // Create initial table with "Testing..." speeds
+                data.forEach((conn, index) => {
+                    tbody.innerHTML += `
+                        <tr data-db-name="${conn.name}">
+                            <td>${index + 1}</td>
+                            <td>${conn.name}</td>
+                            <td>${conn.type}</td>
+                            <td class="${conn.status === 'Connected' ? 'status-connected' : 'status-failed'}">
+                                ${conn.status}
+                            </td>
+                            <td>${conn.host}</td>
+                            <td class="speed-cell ${getSpeedClass('Testing...')}">
+                                Testing...
+                            </td>
+                        </tr>
+                    `;
+                });
+                
+                // Wait for speed test
+                await new Promise(resolve => setTimeout(resolve, 5000));
+                
+                // Get updated speeds
+                const refreshResponse = await fetch(`http://${API_HOST}/api/refresh`);
+                if (!refreshResponse.ok) throw new Error(`HTTP error! status: ${refreshResponse.status}`);
+                const refreshData = await refreshResponse.json();
+                
+                // Update only speed cells
+                refreshData.forEach(conn => {
+                    const row = document.querySelector(`tr[data-db-name="${conn.name}"]`);
+                    if (row) {
+                        const speedCell = row.querySelector('.speed-cell');
+                        speedCell.textContent = conn.speed;
+                        speedCell.className = `speed-cell ${getSpeedClass(conn.speed)}`;
+                    }
+                });
+
+                document.getElementById('last-update').textContent = 
+                    `(Last updated: ${new Date().toLocaleTimeString()})`;
+
+            } catch (error) {
+                console.error('Error:', error);
+                // Thêm hiển thị lỗi cho người dùng
+                document.getElementById('connections-table').innerHTML = 
+                    `<tr><td colspan="6" class="text-danger">Error connecting to server: ${error.message}</td></tr>`;
+            } finally {
+                refreshBtn.classList.remove('loading');
+                isLoading = false;
+            }
+        }
+
+
+    // Handle refresh button click
+        document.querySelector('.refresh-btn').addEventListener('click', async (e) => {
+            e.preventDefault();
+            await loadConnections();  // Đợi hoàn thành trước khi cho phép click tiếp
+        });
+        // Initial load
+        window.addEventListener('load', loadConnections);
+    </script>
+</body>
+</html>
