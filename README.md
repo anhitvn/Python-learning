@@ -1,14 +1,22 @@
-# Start new Project Python
+## Python info
 
-## Day 1: Setup python, setup lib, config new project
+pip 25.0.1
 
+Python 3.13.2
 
-### **1. Tạo môi trường ảo (Virtual Environment):**
+---
 
-Tại bước này, cần đảm bảo setup đủ Python, và set PATH Homebrew nếu bạn xài Mac
+**1. Tạo thư mục dự án:**
 
-* pip 25.0.1
-* Python 3.13.2
+**Mở terminal và tạo một thư mục cho dự án của bạn.**
+
+```
+mkdir backup_database_app
+cd backup_database_app
+
+```
+
+**2. Tạo môi trường ảo (Virtual Environment):**
 
 Tạo một môi trường ảo để quản lý các dependencies của dự án.
 
@@ -24,28 +32,58 @@ Thoát khỏi môi trường python hiện tại
 deactivate
 ```
 
-### 2. Xác định Project
+Config PATH
 
-Project mục đích: Backup database
+```
+nano ~/.bashrc
+```
 
-- Kết nối và xác  nhận tình trạng kết nối với các database theo list
-- Test speed đến host database
-- Tạo website với api, web với mô hình cơ bản tận dụng code checkdatabase
-- Mở rộng: Tìm hiểu quy trình và cách chạy trên production khác với Dev như thế nào
-- Mở rộng web app này: Thêm  nút backup để chọn backup database
-- Mở rộng web app: Viết mở rộng .env database chuẩn, với login root và list tất cả database root có thể export (Khác với ban đầu là chỉ định riêng theo từng database, đây là theo user)
-- Mở rộng: Thêm login, giao diện
+Cần edit alias để rút ngắn lệnh python/python3 thành py
 
-Day 2: Write 1 project connect and test status database
+```
+# Thêm Python 3.10 vào PATH
+if [ -d "/usr/local/bin" ]; then
+  export PATH="$PATH:/usr/local/bin"
+fi
+alias py=python
+```
+
+**3. Cài đặt các thư viện cần thiết:**
+
+**Cài đặt các thư viện Python để làm việc với các loại database khác nhau.**
 
 ```
 pip install psycopg2-binary pymongo mysql-connector-python
-```
-
-code cơ bản ban đầu
 
 ```
-	import psycopg2
+
+**4. Cấu trúc dự án:**
+
+**Dưới đây là cấu trúc dự án gợi ý:**
+
+```
+backup_database_app/
+├── venv/          # Thư mục môi trường ảo
+├── backup_script.py # Script chính để backup
+├── config.py      # File cấu hình database
+├── README.md      # File mô tả dự án
+└── requirements.txt # File liệt kê các thư viện cần thiết
+
+```
+
+**5. Tạo các file cần thiết:**
+
+* **backup_script.py:** Đây là script chính để chứa logic backup của bạn.
+* **config.py:** File này sẽ chứa các thông tin cấu hình database như host, username, password, và tên database.
+* **README.md:** File này sẽ mô tả dự án của bạn, cách sử dụng, và các thông tin khác.
+* **requirements.txt:** File này liệt kê các thư viện Python mà dự án của bạn cần. Bạn có thể tạo nó bằng lệnh `<span class="selected">pip freeze > requirements.txt</span>`.
+
+**6. Viết code backup:**
+
+**Dưới đây là một ví dụ đơn giản về cách backup database PostgreSQL bằng Python và thư viện **`<span class="selected">psycopg2</span>`:
+
+```
+import psycopg2
 from config import postgres_config  # Import cấu hình từ file config.py
 
 def backup_postgresql(config, output_file):
@@ -66,7 +104,7 @@ def backup_postgresql(config, output_file):
                 print(f"Backing up table: {table_name}")
                 cursor.execute(f"SELECT * FROM {table_name}")
                 rows = cursor.fetchall()
-        
+
                 # Ghi dữ liệu của bảng vào file
                 f.write(f"\n-- Table: {table_name}\n")
                 for row in rows:
@@ -91,18 +129,45 @@ if __name__ == "__main__":
     backup_postgresql(postgres_config, 'backup_postgresql.sql')
 
 
+```
+
+Đừng quên tạo một file .env và điền thông tin cấu hình của bạn: (File .env hiện tại đã thay đổi do lệnh split)
+
+```
+# config.py
+postgres_config = {
+    'host': 'your_postgres_host',
+    'database': 'your_postgres_database',
+    'user': 'your_postgres_user',
+    'password': 'your_postgres_password',
+    'port': 'your_postgres_port' # Thêm port nếu cần
+}
+
+mysql_config = {
+    'host': 'your_mysql_host',
+    'database': 'your_mysql_database',
+    'user': 'your_mysql_user',
+    'password': 'your_mysql_password',
+}
+
+mongodb_config = {
+    'host': 'your_mongodb_host',
+    'port': your_mongodb_port,
+    'username': 'your_mongodb_username', # Thêm nếu cần
+    'password': 'your_mongodb_password', # Thêm nếu cần
+    'database': 'your_mongodb_database'
+}
 
 ```
 
-Cầu trúc file sẽ có dạng
+**Đây chỉ là một ví dụ cơ bản, bạn cần phát triển thêm để hỗ trợ các loại database khác và các tính năng nâng cao hơn.**
 
-```
-backup_database_app/
-├── venv/          # Thư mục môi trường ảo
-├── connection_checker.py # Script chính để backup
-├── .env      # File cấu hình database
-├── README.md      # File mô tả dự án
-└── requirements.txt # File liệt kê các thư viện cần thiết
+====
 
+Với python 3.9.22
 
-```
+python3.9 -m pip install -r requirements.txt
+
+python3.9 -m pip install --no-cache-dir psycopg2-binary
+
+python3.9 -m pip install -r requirements.txt

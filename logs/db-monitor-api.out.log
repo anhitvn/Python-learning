@@ -1,0 +1,320 @@
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}, {"name": "erp-langmay-prod","uri":"mongodb://erp_production:9NSNnoEhX3goCSZs@192.168.45.52:27017/erp_production"}]
+Parsed MongoDB configs: 2 databases
+Added MongoDB connection: erp-langmay-stg
+Added MongoDB connection: erp-langmay-prod
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019@@192.168.45.53:19105/db"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019@@192.168.45.53:19105/db"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019@@192.168.45.53:19105/db"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019@@192.168.45.53:19105/db"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:'AdHocTuts2019@'@192.168.45.53:19105/db"}]
+Error parsing MongoDB configurations: Expecting ',' delimiter: line 1 column 48 (char 47)
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:'AdHocTuts2019@'@192.168.45.53:19105/db"}]
+Error parsing MongoDB configurations: Expecting ',' delimiter: line 1 column 48 (char 47)
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:'AdHocTuts2019@'@192.168.45.53:19105/db"}]
+Error parsing MongoDB configurations: Expecting ',' delimiter: line 1 column 48 (char 47)
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=admin"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=admin"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=admin"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=admin"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=admin"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://admin:AdHocTuts2019%40@192.168.45.53:19105/?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+Error updating speeds: list index out of range
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging?authSource=authdb"}]
+Parsed MongoDB configs: 1 databases
+Error parsing MongoDB configurations: cannot access local variable 'host' where it is not associated with a value
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+MongoDB config string: [{"name": "erp-langmay-stg","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp-langmay-stg
+
+Loading configuration from: .env-projects
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+
+Loading configuration from: .env-projects
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "erp_staging","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/?authSource=erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: erp_staging
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev
+MongoDB config string: [{"name": "mongo_dev","uri": "mongodb://erp_staging:tesT12345@192.168.45.227:27017/erp_staging"}]
+Parsed MongoDB configs: 1 databases
+Added MongoDB connection: mongo_dev

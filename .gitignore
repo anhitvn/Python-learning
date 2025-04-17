@@ -1,3 +1,5 @@
 .vscode
 .pytest_cache
 .env
+.env-projects
+__pycache__

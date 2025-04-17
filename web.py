@@ -8,5 +8,9 @@ CORS(app)  # Cho phép cross-origin requests
 def index():
     return send_from_directory('static', 'index.html')
 
+@app.route('/view-db-b.html')
+def view_db_b():
+    return send_from_directory('static', 'view-db-b.html')
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=4444)

@@ -1,0 +1,1555 @@
+[2025-04-14 12:12:22 +0700] [40216] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 12:12:22 +0700] [40216] [INFO] Listening at: http://0.0.0.0:4444 (40216)
+[2025-04-14 12:12:22 +0700] [40216] [INFO] Using worker: sync
+[2025-04-14 12:12:22 +0700] [40255] [INFO] Booting worker with pid: 40255
+[2025-04-14 12:12:22 +0700] [40256] [INFO] Booting worker with pid: 40256
+[2025-04-14 12:12:22 +0700] [40257] [INFO] Booting worker with pid: 40257
+[2025-04-14 12:12:22 +0700] [40258] [INFO] Booting worker with pid: 40258
+[2025-04-14 12:14:27 +0700] [40216] [INFO] Handling signal: term
+[2025-04-14 12:14:27 +0700] [40256] [INFO] Worker exiting (pid: 40256)
+[2025-04-14 12:14:27 +0700] [40258] [INFO] Worker exiting (pid: 40258)
+[2025-04-14 12:14:27 +0700] [40257] [INFO] Worker exiting (pid: 40257)
+[2025-04-14 12:14:27 +0700] [40255] [INFO] Worker exiting (pid: 40255)
+[2025-04-14 12:14:27 +0700] [40216] [INFO] Shutting down: Master
+[2025-04-14 12:14:44 +0700] [43379] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 12:14:44 +0700] [43379] [INFO] Listening at: http://0.0.0.0:4444 (43379)
+[2025-04-14 12:14:44 +0700] [43379] [INFO] Using worker: sync
+[2025-04-14 12:14:44 +0700] [43380] [INFO] Booting worker with pid: 43380
+[2025-04-14 12:14:44 +0700] [43383] [INFO] Booting worker with pid: 43383
+[2025-04-14 12:14:44 +0700] [43384] [INFO] Booting worker with pid: 43384
+[2025-04-14 12:14:45 +0700] [43385] [INFO] Booting worker with pid: 43385
+[2025-04-14 13:33:34 +0700] [43379] [INFO] Handling signal: term
+[2025-04-14 13:33:34 +0700] [43385] [INFO] Worker exiting (pid: 43385)
+[2025-04-14 13:33:34 +0700] [43384] [INFO] Worker exiting (pid: 43384)
+[2025-04-14 13:33:34 +0700] [43380] [INFO] Worker exiting (pid: 43380)
+[2025-04-14 13:33:34 +0700] [43383] [INFO] Worker exiting (pid: 43383)
+[2025-04-14 13:33:34 +0700] [43379] [INFO] Shutting down: Master
+[2025-04-14 13:33:37 +0700] [85613] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 13:33:37 +0700] [85613] [INFO] Listening at: http://0.0.0.0:4444 (85613)
+[2025-04-14 13:33:37 +0700] [85613] [INFO] Using worker: sync
+[2025-04-14 13:33:37 +0700] [85614] [INFO] Booting worker with pid: 85614
+[2025-04-14 13:33:37 +0700] [85615] [INFO] Booting worker with pid: 85615
+[2025-04-14 13:33:37 +0700] [85616] [INFO] Booting worker with pid: 85616
+[2025-04-14 13:33:37 +0700] [85620] [INFO] Booting worker with pid: 85620
+[2025-04-14 13:37:57 +0700] [85613] [INFO] Handling signal: term
+[2025-04-14 13:37:57 +0700] [85615] [INFO] Worker exiting (pid: 85615)
+[2025-04-14 13:37:57 +0700] [85614] [INFO] Worker exiting (pid: 85614)
+[2025-04-14 13:37:57 +0700] [85620] [INFO] Worker exiting (pid: 85620)
+[2025-04-14 13:37:57 +0700] [85616] [INFO] Worker exiting (pid: 85616)
+[2025-04-14 13:37:57 +0700] [85613] [INFO] Shutting down: Master
+[2025-04-14 13:38:05 +0700] [90326] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 13:38:05 +0700] [90326] [INFO] Listening at: http://0.0.0.0:4444 (90326)
+[2025-04-14 13:38:05 +0700] [90326] [INFO] Using worker: sync
+[2025-04-14 13:38:05 +0700] [90327] [INFO] Booting worker with pid: 90327
+[2025-04-14 13:38:05 +0700] [90328] [INFO] Booting worker with pid: 90328
+[2025-04-14 13:38:05 +0700] [90330] [INFO] Booting worker with pid: 90330
+[2025-04-14 13:38:05 +0700] [90332] [INFO] Booting worker with pid: 90332
+[2025-04-14 13:39:14 +0700] [90326] [INFO] Handling signal: term
+[2025-04-14 13:39:14 +0700] [90327] [INFO] Worker exiting (pid: 90327)
+[2025-04-14 13:39:14 +0700] [90328] [INFO] Worker exiting (pid: 90328)
+[2025-04-14 13:39:14 +0700] [90330] [INFO] Worker exiting (pid: 90330)
+[2025-04-14 13:39:14 +0700] [90332] [INFO] Worker exiting (pid: 90332)
+[2025-04-14 13:39:14 +0700] [90326] [INFO] Shutting down: Master
+[2025-04-14 13:39:43 +0700] [92172] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 13:39:43 +0700] [92172] [INFO] Listening at: http://0.0.0.0:4444 (92172)
+[2025-04-14 13:39:43 +0700] [92172] [INFO] Using worker: sync
+[2025-04-14 13:39:43 +0700] [92173] [INFO] Booting worker with pid: 92173
+[2025-04-14 13:39:43 +0700] [92175] [INFO] Booting worker with pid: 92175
+[2025-04-14 13:39:44 +0700] [92177] [INFO] Booting worker with pid: 92177
+[2025-04-14 13:39:44 +0700] [92178] [INFO] Booting worker with pid: 92178
+[2025-04-14 13:40:08 +0700] [92172] [INFO] Handling signal: term
+[2025-04-14 13:40:08 +0700] [92177] [INFO] Worker exiting (pid: 92177)
+[2025-04-14 13:40:08 +0700] [92173] [INFO] Worker exiting (pid: 92173)
+[2025-04-14 13:40:08 +0700] [92175] [INFO] Worker exiting (pid: 92175)
+[2025-04-14 13:40:08 +0700] [92178] [INFO] Worker exiting (pid: 92178)
+[2025-04-14 13:40:08 +0700] [92172] [INFO] Shutting down: Master
+[2025-04-14 13:48:38 +0700] [1839] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 13:48:38 +0700] [1839] [INFO] Listening at: http://0.0.0.0:4444 (1839)
+[2025-04-14 13:48:38 +0700] [1839] [INFO] Using worker: sync
+[2025-04-14 13:48:38 +0700] [1840] [INFO] Booting worker with pid: 1840
+[2025-04-14 13:48:38 +0700] [1841] [INFO] Booting worker with pid: 1841
+[2025-04-14 13:48:38 +0700] [1844] [INFO] Booting worker with pid: 1844
+[2025-04-14 13:48:38 +0700] [1845] [INFO] Booting worker with pid: 1845
+[2025-04-14 14:17:37 +0700] [1839] [INFO] Handling signal: term
+[2025-04-14 14:17:37 +0700] [1844] [INFO] Worker exiting (pid: 1844)
+[2025-04-14 14:17:37 +0700] [1840] [INFO] Worker exiting (pid: 1840)
+[2025-04-14 14:17:37 +0700] [1845] [INFO] Worker exiting (pid: 1845)
+[2025-04-14 14:17:37 +0700] [1841] [INFO] Worker exiting (pid: 1841)
+[2025-04-14 14:17:37 +0700] [1839] [INFO] Shutting down: Master
+[2025-04-14 14:17:42 +0700] [34252] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:17:42 +0700] [34252] [INFO] Listening at: http://0.0.0.0:4444 (34252)
+[2025-04-14 14:17:42 +0700] [34252] [INFO] Using worker: sync
+[2025-04-14 14:17:42 +0700] [34253] [INFO] Booting worker with pid: 34253
+[2025-04-14 14:17:42 +0700] [34256] [INFO] Booting worker with pid: 34256
+[2025-04-14 14:17:42 +0700] [34257] [INFO] Booting worker with pid: 34257
+[2025-04-14 14:17:42 +0700] [34258] [INFO] Booting worker with pid: 34258
+[2025-04-14 14:24:30 +0700] [34252] [INFO] Handling signal: term
+[2025-04-14 14:24:30 +0700] [34253] [INFO] Worker exiting (pid: 34253)
+[2025-04-14 14:24:30 +0700] [34257] [INFO] Worker exiting (pid: 34257)
+[2025-04-14 14:24:30 +0700] [34256] [INFO] Worker exiting (pid: 34256)
+[2025-04-14 14:24:30 +0700] [34258] [INFO] Worker exiting (pid: 34258)
+[2025-04-14 14:24:30 +0700] [34252] [INFO] Shutting down: Master
+[2025-04-14 14:24:34 +0700] [41635] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:24:34 +0700] [41635] [INFO] Listening at: http://0.0.0.0:4444 (41635)
+[2025-04-14 14:24:34 +0700] [41635] [INFO] Using worker: sync
+[2025-04-14 14:24:34 +0700] [41636] [INFO] Booting worker with pid: 41636
+[2025-04-14 14:24:34 +0700] [41637] [INFO] Booting worker with pid: 41637
+[2025-04-14 14:24:34 +0700] [41673] [INFO] Booting worker with pid: 41673
+[2025-04-14 14:24:34 +0700] [41676] [INFO] Booting worker with pid: 41676
+[2025-04-14 14:25:09 +0700] [41635] [INFO] Handling signal: term
+[2025-04-14 14:25:09 +0700] [41673] [INFO] Worker exiting (pid: 41673)
+[2025-04-14 14:25:09 +0700] [41636] [INFO] Worker exiting (pid: 41636)
+[2025-04-14 14:25:09 +0700] [41637] [INFO] Worker exiting (pid: 41637)
+[2025-04-14 14:25:09 +0700] [41676] [INFO] Worker exiting (pid: 41676)
+[2025-04-14 14:25:09 +0700] [41635] [INFO] Shutting down: Master
+[2025-04-14 14:25:18 +0700] [42573] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:25:18 +0700] [42573] [INFO] Listening at: http://0.0.0.0:4444 (42573)
+[2025-04-14 14:25:18 +0700] [42573] [INFO] Using worker: sync
+[2025-04-14 14:25:18 +0700] [42609] [INFO] Booting worker with pid: 42609
+[2025-04-14 14:25:18 +0700] [42612] [INFO] Booting worker with pid: 42612
+[2025-04-14 14:25:18 +0700] [42613] [INFO] Booting worker with pid: 42613
+[2025-04-14 14:25:18 +0700] [42614] [INFO] Booting worker with pid: 42614
+[2025-04-14 14:42:45 +0700] [42573] [INFO] Handling signal: term
+[2025-04-14 14:42:45 +0700] [42612] [INFO] Worker exiting (pid: 42612)
+[2025-04-14 14:42:45 +0700] [42609] [INFO] Worker exiting (pid: 42609)
+[2025-04-14 14:42:45 +0700] [42613] [INFO] Worker exiting (pid: 42613)
+[2025-04-14 14:42:45 +0700] [42614] [INFO] Worker exiting (pid: 42614)
+[2025-04-14 14:42:45 +0700] [42573] [INFO] Shutting down: Master
+[2025-04-14 14:42:49 +0700] [60992] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:42:49 +0700] [60992] [INFO] Listening at: http://0.0.0.0:4444 (60992)
+[2025-04-14 14:42:49 +0700] [60992] [INFO] Using worker: sync
+[2025-04-14 14:42:49 +0700] [60993] [INFO] Booting worker with pid: 60993
+[2025-04-14 14:42:49 +0700] [60996] [INFO] Booting worker with pid: 60996
+[2025-04-14 14:42:49 +0700] [60997] [INFO] Booting worker with pid: 60997
+[2025-04-14 14:42:49 +0700] [60998] [INFO] Booting worker with pid: 60998
+[2025-04-14 14:43:24 +0700] [60992] [INFO] Handling signal: term
+[2025-04-14 14:43:24 +0700] [60997] [INFO] Worker exiting (pid: 60997)
+[2025-04-14 14:43:24 +0700] [60998] [INFO] Worker exiting (pid: 60998)
+[2025-04-14 14:43:24 +0700] [60996] [INFO] Worker exiting (pid: 60996)
+[2025-04-14 14:43:24 +0700] [60993] [INFO] Worker exiting (pid: 60993)
+[2025-04-14 14:43:24 +0700] [60992] [INFO] Shutting down: Master
+[2025-04-14 14:43:30 +0700] [61805] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:43:30 +0700] [61805] [INFO] Listening at: http://0.0.0.0:4444 (61805)
+[2025-04-14 14:43:30 +0700] [61805] [INFO] Using worker: sync
+[2025-04-14 14:43:30 +0700] [61806] [INFO] Booting worker with pid: 61806
+[2025-04-14 14:43:30 +0700] [61809] [INFO] Booting worker with pid: 61809
+[2025-04-14 14:43:30 +0700] [61810] [INFO] Booting worker with pid: 61810
+[2025-04-14 14:43:30 +0700] [61811] [INFO] Booting worker with pid: 61811
+[2025-04-14 14:46:41 +0700] [61805] [INFO] Handling signal: term
+[2025-04-14 14:46:41 +0700] [61806] [INFO] Worker exiting (pid: 61806)
+[2025-04-14 14:46:41 +0700] [61811] [INFO] Worker exiting (pid: 61811)
+[2025-04-14 14:46:41 +0700] [61810] [INFO] Worker exiting (pid: 61810)
+[2025-04-14 14:46:41 +0700] [61809] [INFO] Worker exiting (pid: 61809)
+[2025-04-14 14:46:41 +0700] [61805] [INFO] Shutting down: Master
+[2025-04-14 14:46:45 +0700] [65975] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 14:46:45 +0700] [65975] [INFO] Listening at: http://0.0.0.0:4444 (65975)
+[2025-04-14 14:46:45 +0700] [65975] [INFO] Using worker: sync
+[2025-04-14 14:46:45 +0700] [65976] [INFO] Booting worker with pid: 65976
+[2025-04-14 14:46:45 +0700] [65977] [INFO] Booting worker with pid: 65977
+[2025-04-14 14:46:45 +0700] [65980] [INFO] Booting worker with pid: 65980
+[2025-04-14 14:46:45 +0700] [66013] [INFO] Booting worker with pid: 66013
+[2025-04-14 15:00:23 +0700] [65975] [INFO] Handling signal: term
+[2025-04-14 15:00:23 +0700] [65976] [INFO] Worker exiting (pid: 65976)
+[2025-04-14 15:00:23 +0700] [65980] [INFO] Worker exiting (pid: 65980)
+[2025-04-14 15:00:23 +0700] [65977] [INFO] Worker exiting (pid: 65977)
+[2025-04-14 15:00:23 +0700] [66013] [INFO] Worker exiting (pid: 66013)
+[2025-04-14 15:00:23 +0700] [65975] [INFO] Shutting down: Master
+[2025-04-14 22:09:34 +0700] [35720] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 22:09:34 +0700] [35720] [INFO] Listening at: http://0.0.0.0:4444 (35720)
+[2025-04-14 22:09:34 +0700] [35720] [INFO] Using worker: sync
+[2025-04-14 22:09:34 +0700] [35721] [INFO] Booting worker with pid: 35721
+[2025-04-14 22:09:34 +0700] [35746] [INFO] Booting worker with pid: 35746
+[2025-04-14 22:09:34 +0700] [35754] [INFO] Booting worker with pid: 35754
+[2025-04-14 22:09:34 +0700] [35755] [INFO] Booting worker with pid: 35755
+[2025-04-14 22:10:48 +0700] [35720] [CRITICAL] WORKER TIMEOUT (pid:35746)
+[2025-04-14 22:10:48 +0700] [35746] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-14 22:10:48 +0700] [35746] [INFO] Worker exiting (pid: 35746)
+[2025-04-14 22:10:48 +0700] [36944] [INFO] Booting worker with pid: 36944
+[2025-04-14 22:11:57 +0700] [35720] [CRITICAL] WORKER TIMEOUT (pid:35755)
+[2025-04-14 22:11:57 +0700] [35755] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-14 22:11:57 +0700] [35755] [INFO] Worker exiting (pid: 35755)
+[2025-04-14 22:11:57 +0700] [37818] [INFO] Booting worker with pid: 37818
+[2025-04-14 22:15:42 +0700] [40702] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 22:15:42 +0700] [40702] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:15:42 +0700] [40702] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:15:43 +0700] [40702] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:15:43 +0700] [40702] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:15:44 +0700] [40702] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:15:44 +0700] [40702] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:15:45 +0700] [40702] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:15:45 +0700] [40702] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:15:46 +0700] [40702] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:15:46 +0700] [40702] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:15:47 +0700] [40702] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-14 22:16:09 +0700] [35720] [INFO] Handling signal: term
+[2025-04-14 22:16:09 +0700] [35721] [INFO] Worker exiting (pid: 35721)
+[2025-04-14 22:16:09 +0700] [36944] [INFO] Worker exiting (pid: 36944)
+[2025-04-14 22:16:09 +0700] [35754] [INFO] Worker exiting (pid: 35754)
+[2025-04-14 22:16:24 +0700] [41293] [INFO] Starting gunicorn 23.0.0
+[2025-04-14 22:16:24 +0700] [41293] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:16:24 +0700] [41293] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:16:25 +0700] [41293] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:16:25 +0700] [41293] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:16:26 +0700] [41293] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-14 22:16:26 +0700] [41293] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-14 22:16:27 +0700] [41293] [INFO] Listening at: http://0.0.0.0:4444 (41293)
+[2025-04-14 22:16:27 +0700] [41293] [INFO] Using worker: sync
+[2025-04-14 22:16:27 +0700] [41343] [INFO] Booting worker with pid: 41343
+[2025-04-14 22:16:27 +0700] [41344] [INFO] Booting worker with pid: 41344
+[2025-04-14 22:16:27 +0700] [41345] [INFO] Booting worker with pid: 41345
+[2025-04-14 22:16:27 +0700] [41346] [INFO] Booting worker with pid: 41346
+[2025-04-14 23:43:33 +0700] [41293] [CRITICAL] WORKER TIMEOUT (pid:41345)
+[2025-04-14 23:43:33 +0700] [41345] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-14 23:43:33 +0700] [41345] [INFO] Worker exiting (pid: 41345)
+[2025-04-14 23:43:33 +0700] [88680] [INFO] Booting worker with pid: 88680
+[2025-04-15 09:05:47 +0700] [41293] [INFO] Handling signal: term
+[2025-04-15 09:05:47 +0700] [41344] [INFO] Worker exiting (pid: 41344)
+[2025-04-15 09:05:47 +0700] [41343] [INFO] Worker exiting (pid: 41343)
+[2025-04-15 09:05:47 +0700] [88680] [INFO] Worker exiting (pid: 88680)
+[2025-04-15 09:26:53 +0700] [12886] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 09:26:53 +0700] [12886] [INFO] Listening at: http://0.0.0.0:4444 (12886)
+[2025-04-15 09:26:53 +0700] [12886] [INFO] Using worker: sync
+[2025-04-15 09:26:53 +0700] [12887] [INFO] Booting worker with pid: 12887
+[2025-04-15 09:26:53 +0700] [12888] [INFO] Booting worker with pid: 12888
+[2025-04-15 09:26:53 +0700] [12890] [INFO] Booting worker with pid: 12890
+[2025-04-15 09:26:53 +0700] [12892] [INFO] Booting worker with pid: 12892
+[2025-04-15 09:27:24 +0700] [12886] [CRITICAL] WORKER TIMEOUT (pid:12892)
+[2025-04-15 09:27:24 +0700] [12892] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-15 09:27:24 +0700] [12892] [INFO] Worker exiting (pid: 12892)
+[2025-04-15 09:27:24 +0700] [13107] [INFO] Booting worker with pid: 13107
+[2025-04-15 11:16:21 +0700] [55733] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:21 +0700] [55733] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:21 +0700] [55733] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:22 +0700] [55733] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:22 +0700] [55733] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:23 +0700] [55733] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:23 +0700] [55733] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:24 +0700] [55733] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:24 +0700] [55733] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:25 +0700] [55733] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:25 +0700] [55733] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:26 +0700] [55733] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:26 +0700] [55779] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:26 +0700] [55779] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:26 +0700] [55779] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:27 +0700] [55779] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:27 +0700] [55779] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:28 +0700] [55779] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:28 +0700] [55779] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:29 +0700] [55779] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:29 +0700] [55779] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:30 +0700] [55779] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:30 +0700] [55779] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:31 +0700] [55779] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:32 +0700] [55824] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:32 +0700] [55824] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:32 +0700] [55824] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:33 +0700] [55824] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:33 +0700] [55824] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:34 +0700] [55824] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:34 +0700] [55824] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:35 +0700] [55824] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:35 +0700] [55824] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:36 +0700] [55824] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:36 +0700] [55824] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:37 +0700] [55824] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:38 +0700] [55869] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:38 +0700] [55869] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:38 +0700] [55869] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:39 +0700] [55869] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:39 +0700] [55869] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:40 +0700] [55869] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:40 +0700] [55869] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:41 +0700] [55869] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:41 +0700] [55869] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:42 +0700] [55869] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:42 +0700] [55869] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:43 +0700] [55869] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:44 +0700] [55911] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:44 +0700] [55911] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:44 +0700] [55911] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:45 +0700] [55911] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:45 +0700] [55911] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:46 +0700] [55911] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:46 +0700] [55911] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:47 +0700] [55911] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:47 +0700] [55911] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:48 +0700] [55911] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:48 +0700] [55911] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:49 +0700] [55911] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:51 +0700] [55951] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:51 +0700] [55951] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:51 +0700] [55951] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:52 +0700] [55951] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:52 +0700] [55951] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:53 +0700] [55951] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:53 +0700] [55951] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:54 +0700] [55951] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:54 +0700] [55951] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:55 +0700] [55951] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:55 +0700] [55951] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:56 +0700] [55951] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:16:57 +0700] [55992] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:16:57 +0700] [55992] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:57 +0700] [55992] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:58 +0700] [55992] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:58 +0700] [55992] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:16:59 +0700] [55992] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:16:59 +0700] [55992] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:00 +0700] [12886] [CRITICAL] WORKER TIMEOUT (pid:12890)
+[2025-04-15 11:17:00 +0700] [12890] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-15 11:17:00 +0700] [12890] [INFO] Worker exiting (pid: 12890)
+[2025-04-15 11:17:00 +0700] [55992] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:00 +0700] [55992] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:00 +0700] [56008] [INFO] Booting worker with pid: 56008
+[2025-04-15 11:17:01 +0700] [55992] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:01 +0700] [55992] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:02 +0700] [55992] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:03 +0700] [56035] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:03 +0700] [56035] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:03 +0700] [56035] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:04 +0700] [56035] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:04 +0700] [56035] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:05 +0700] [56035] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:05 +0700] [56035] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:06 +0700] [56035] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:06 +0700] [56035] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:07 +0700] [56035] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:07 +0700] [56035] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:08 +0700] [56035] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:09 +0700] [56064] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:09 +0700] [56064] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:09 +0700] [56064] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:10 +0700] [56064] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:10 +0700] [56064] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:11 +0700] [56064] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:11 +0700] [56064] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:12 +0700] [56064] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:12 +0700] [56064] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:13 +0700] [56064] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:13 +0700] [56064] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:14 +0700] [56064] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:15 +0700] [56105] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:15 +0700] [56105] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:15 +0700] [56105] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:16 +0700] [56105] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:16 +0700] [56105] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:17 +0700] [56105] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:17 +0700] [56105] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:18 +0700] [56105] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:18 +0700] [56105] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:19 +0700] [56105] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:19 +0700] [56105] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:20 +0700] [56105] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:21 +0700] [56151] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:21 +0700] [56151] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:21 +0700] [56151] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:22 +0700] [56151] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:22 +0700] [56151] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:23 +0700] [56151] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:23 +0700] [56151] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:24 +0700] [56151] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:24 +0700] [56151] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:25 +0700] [56151] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:25 +0700] [56151] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:26 +0700] [56151] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:27 +0700] [56190] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:27 +0700] [56190] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:27 +0700] [56190] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:28 +0700] [56190] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:28 +0700] [56190] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:29 +0700] [56190] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:29 +0700] [56190] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:30 +0700] [56190] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:30 +0700] [56190] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:31 +0700] [56190] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:31 +0700] [56190] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:32 +0700] [56190] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:34 +0700] [56234] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:34 +0700] [56234] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:34 +0700] [56234] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:35 +0700] [56234] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:35 +0700] [56234] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:36 +0700] [56234] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:36 +0700] [56234] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:37 +0700] [56234] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:37 +0700] [56234] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:38 +0700] [56234] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:38 +0700] [56234] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:39 +0700] [56234] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:40 +0700] [56273] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:40 +0700] [56273] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:40 +0700] [56273] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:41 +0700] [56273] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:41 +0700] [56273] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:42 +0700] [56273] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:42 +0700] [56273] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:43 +0700] [56273] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:43 +0700] [56273] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:44 +0700] [56273] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:44 +0700] [56273] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:45 +0700] [56273] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:46 +0700] [56314] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:46 +0700] [56314] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:46 +0700] [56314] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:47 +0700] [56314] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:47 +0700] [56314] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:48 +0700] [56314] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:48 +0700] [56314] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:49 +0700] [56314] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:49 +0700] [56314] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:50 +0700] [56314] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:50 +0700] [56314] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:51 +0700] [56314] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:52 +0700] [56355] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:52 +0700] [56355] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:52 +0700] [56355] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:53 +0700] [56355] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:53 +0700] [56355] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:54 +0700] [56355] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:54 +0700] [56355] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:55 +0700] [56355] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:55 +0700] [56355] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:56 +0700] [56355] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:56 +0700] [56355] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:57 +0700] [56355] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:17:58 +0700] [56397] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:17:58 +0700] [56397] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:58 +0700] [56397] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:17:59 +0700] [56397] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:17:59 +0700] [56397] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:00 +0700] [56397] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:00 +0700] [56397] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:01 +0700] [56397] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:01 +0700] [56397] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:02 +0700] [56397] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:02 +0700] [56397] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:03 +0700] [56397] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:04 +0700] [56438] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:04 +0700] [56438] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:04 +0700] [56438] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:05 +0700] [56438] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:05 +0700] [56438] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:06 +0700] [56438] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:06 +0700] [56438] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:07 +0700] [56438] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:07 +0700] [56438] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:08 +0700] [56438] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:08 +0700] [56438] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:09 +0700] [56438] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:10 +0700] [56478] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:10 +0700] [56478] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:10 +0700] [56478] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:11 +0700] [56478] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:11 +0700] [56478] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:12 +0700] [56478] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:12 +0700] [56478] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:13 +0700] [56478] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:13 +0700] [56478] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:14 +0700] [56478] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:14 +0700] [56478] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:16 +0700] [56478] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:17 +0700] [56519] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:17 +0700] [56519] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:17 +0700] [56519] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:18 +0700] [56519] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:18 +0700] [56519] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:19 +0700] [56519] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:19 +0700] [56519] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:20 +0700] [56519] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:20 +0700] [56519] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:21 +0700] [56519] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:21 +0700] [56519] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:22 +0700] [56519] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:23 +0700] [56561] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:23 +0700] [56561] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:23 +0700] [56561] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:24 +0700] [56561] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:24 +0700] [56561] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:25 +0700] [56561] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:25 +0700] [56561] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:26 +0700] [56561] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:26 +0700] [56561] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:27 +0700] [56561] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:27 +0700] [56561] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:28 +0700] [56561] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:29 +0700] [56603] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:29 +0700] [56603] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:29 +0700] [56603] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:30 +0700] [56603] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:30 +0700] [56603] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:31 +0700] [56603] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:31 +0700] [56603] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:32 +0700] [56603] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:32 +0700] [56603] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:33 +0700] [56603] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:33 +0700] [56603] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:34 +0700] [56603] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:35 +0700] [56644] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:35 +0700] [56644] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:35 +0700] [56644] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:36 +0700] [56644] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:36 +0700] [56644] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:37 +0700] [56644] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:37 +0700] [56644] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:38 +0700] [56644] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:38 +0700] [56644] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:39 +0700] [56644] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:39 +0700] [56644] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:40 +0700] [56644] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:41 +0700] [56699] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:41 +0700] [56699] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:41 +0700] [56699] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:42 +0700] [56699] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:42 +0700] [56699] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:43 +0700] [56699] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:43 +0700] [56699] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:44 +0700] [56699] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:44 +0700] [56699] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:45 +0700] [56699] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:45 +0700] [56699] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:46 +0700] [56699] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:47 +0700] [56738] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:47 +0700] [56738] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:47 +0700] [56738] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:48 +0700] [56738] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:48 +0700] [56738] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:49 +0700] [56738] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:49 +0700] [56738] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:50 +0700] [56738] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:50 +0700] [56738] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:51 +0700] [56738] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:51 +0700] [56738] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:52 +0700] [56738] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:18:53 +0700] [56781] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:18:53 +0700] [56781] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:53 +0700] [56781] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:54 +0700] [56781] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:54 +0700] [56781] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:55 +0700] [56781] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:55 +0700] [56781] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:56 +0700] [56781] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:56 +0700] [56781] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:57 +0700] [56781] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:18:57 +0700] [56781] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:18:58 +0700] [56781] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:00 +0700] [56821] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:00 +0700] [56821] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:00 +0700] [56821] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:01 +0700] [56821] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:01 +0700] [56821] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:02 +0700] [56821] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:02 +0700] [56821] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:03 +0700] [56821] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:03 +0700] [56821] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:04 +0700] [56821] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:04 +0700] [56821] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:05 +0700] [56821] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:06 +0700] [56862] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:06 +0700] [56862] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:06 +0700] [56862] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:07 +0700] [56862] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:07 +0700] [56862] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:08 +0700] [56862] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:08 +0700] [56862] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:09 +0700] [56862] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:09 +0700] [56862] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:10 +0700] [56862] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:10 +0700] [56862] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:11 +0700] [56862] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:12 +0700] [56903] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:12 +0700] [56903] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:12 +0700] [56903] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:13 +0700] [56903] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:13 +0700] [56903] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:14 +0700] [56903] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:14 +0700] [56903] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:15 +0700] [56903] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:15 +0700] [56903] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:16 +0700] [56903] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:16 +0700] [56903] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:17 +0700] [56903] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:18 +0700] [56942] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:18 +0700] [56942] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:18 +0700] [56942] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:19 +0700] [56942] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:19 +0700] [56942] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:20 +0700] [56942] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:20 +0700] [56942] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:21 +0700] [56942] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:21 +0700] [56942] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:22 +0700] [56942] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:22 +0700] [56942] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:23 +0700] [56942] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:24 +0700] [56987] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:24 +0700] [56987] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:24 +0700] [56987] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:25 +0700] [56987] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:25 +0700] [56987] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:26 +0700] [56987] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:26 +0700] [56987] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:27 +0700] [56987] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:27 +0700] [56987] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:28 +0700] [56987] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:28 +0700] [56987] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:29 +0700] [56987] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:30 +0700] [57027] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:30 +0700] [57027] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:30 +0700] [57027] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:31 +0700] [57027] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:31 +0700] [57027] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:32 +0700] [57027] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:32 +0700] [57027] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:33 +0700] [57027] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:33 +0700] [57027] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:34 +0700] [57027] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:34 +0700] [57027] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:35 +0700] [57027] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:36 +0700] [57068] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:36 +0700] [57068] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:36 +0700] [57068] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:37 +0700] [57068] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:37 +0700] [57068] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:38 +0700] [57068] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:38 +0700] [57068] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:39 +0700] [57068] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:39 +0700] [57068] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:40 +0700] [57068] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:40 +0700] [57068] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:41 +0700] [57068] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:43 +0700] [57109] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:43 +0700] [57109] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:43 +0700] [57109] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:44 +0700] [57109] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:44 +0700] [57109] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:45 +0700] [57109] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:45 +0700] [57109] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:46 +0700] [57109] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:46 +0700] [57109] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:47 +0700] [57109] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:47 +0700] [57109] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:48 +0700] [57109] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:49 +0700] [57150] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:49 +0700] [57150] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:49 +0700] [57150] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:50 +0700] [57150] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:50 +0700] [57150] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:51 +0700] [57150] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:51 +0700] [57150] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:52 +0700] [57150] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:52 +0700] [57150] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:53 +0700] [57150] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:53 +0700] [57150] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:54 +0700] [57150] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:19:55 +0700] [57191] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:19:55 +0700] [57191] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:55 +0700] [57191] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:56 +0700] [57191] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:56 +0700] [57191] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:57 +0700] [57191] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:57 +0700] [57191] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:58 +0700] [57191] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:58 +0700] [57191] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:19:59 +0700] [57191] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:19:59 +0700] [57191] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:00 +0700] [57191] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:01 +0700] [57231] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:01 +0700] [57231] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:01 +0700] [57231] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:02 +0700] [57231] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:02 +0700] [57231] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:03 +0700] [57231] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:03 +0700] [57231] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:04 +0700] [57231] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:04 +0700] [57231] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:05 +0700] [57231] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:05 +0700] [57231] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:06 +0700] [57231] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:07 +0700] [57274] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:07 +0700] [57274] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:07 +0700] [57274] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:08 +0700] [57274] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:08 +0700] [57274] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:09 +0700] [57274] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:09 +0700] [57274] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:10 +0700] [57274] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:10 +0700] [57274] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:11 +0700] [57274] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:11 +0700] [57274] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:12 +0700] [57274] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:13 +0700] [57316] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:13 +0700] [57316] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:13 +0700] [57316] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:14 +0700] [57316] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:14 +0700] [57316] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:15 +0700] [57316] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:15 +0700] [57316] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:16 +0700] [57316] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:16 +0700] [57316] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:17 +0700] [57316] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:17 +0700] [57316] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:18 +0700] [57316] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:19 +0700] [57344] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:19 +0700] [57344] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:19 +0700] [57344] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:20 +0700] [57344] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:20 +0700] [57344] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:21 +0700] [57344] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:21 +0700] [57344] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:22 +0700] [57344] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:22 +0700] [57344] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:23 +0700] [57344] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:23 +0700] [57344] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:24 +0700] [57344] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:25 +0700] [57385] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:25 +0700] [57385] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:25 +0700] [57385] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:26 +0700] [57385] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:26 +0700] [57385] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:27 +0700] [57385] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:27 +0700] [57385] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:28 +0700] [57385] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:28 +0700] [57385] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:29 +0700] [57385] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:29 +0700] [57385] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:30 +0700] [57385] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:32 +0700] [57427] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:32 +0700] [57427] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:32 +0700] [57427] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:33 +0700] [57427] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:33 +0700] [57427] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:34 +0700] [57427] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:34 +0700] [57427] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:35 +0700] [57427] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:35 +0700] [57427] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:36 +0700] [57427] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:36 +0700] [57427] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:37 +0700] [57427] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:38 +0700] [57471] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:38 +0700] [57471] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:38 +0700] [57471] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:39 +0700] [57471] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:39 +0700] [57471] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:40 +0700] [57471] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:40 +0700] [57471] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:41 +0700] [57471] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:41 +0700] [57471] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:42 +0700] [57471] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:42 +0700] [57471] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:43 +0700] [57471] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:44 +0700] [57515] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:44 +0700] [57515] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:44 +0700] [57515] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:45 +0700] [57515] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:45 +0700] [57515] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:46 +0700] [57515] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:46 +0700] [57515] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:47 +0700] [57515] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:47 +0700] [57515] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:48 +0700] [57515] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:48 +0700] [57515] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:49 +0700] [57515] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:50 +0700] [57554] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:50 +0700] [57554] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:50 +0700] [57554] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:51 +0700] [57554] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:51 +0700] [57554] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:52 +0700] [57554] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:52 +0700] [57554] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:53 +0700] [57554] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:53 +0700] [57554] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:54 +0700] [57554] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:54 +0700] [57554] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:55 +0700] [57554] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:20:56 +0700] [57598] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:20:56 +0700] [57598] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:56 +0700] [57598] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:57 +0700] [57598] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:57 +0700] [57598] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:58 +0700] [57598] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:58 +0700] [57598] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:20:59 +0700] [57598] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:20:59 +0700] [57598] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:00 +0700] [57598] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:00 +0700] [57598] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:01 +0700] [57598] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:21:02 +0700] [57655] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:21:02 +0700] [57655] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:02 +0700] [57655] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:03 +0700] [57655] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:03 +0700] [57655] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:04 +0700] [57655] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:04 +0700] [57655] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:05 +0700] [57655] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:05 +0700] [57655] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:06 +0700] [57655] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:06 +0700] [57655] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:07 +0700] [57655] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:21:08 +0700] [57696] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:21:08 +0700] [57696] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:08 +0700] [57696] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:09 +0700] [57696] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:09 +0700] [57696] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:10 +0700] [57696] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:10 +0700] [57696] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:11 +0700] [57696] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:11 +0700] [57696] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:12 +0700] [57696] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:12 +0700] [57696] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:13 +0700] [57696] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:21:15 +0700] [57777] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:21:15 +0700] [57777] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:15 +0700] [57777] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:16 +0700] [57777] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:16 +0700] [57777] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:17 +0700] [57777] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:17 +0700] [57777] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:18 +0700] [57777] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:18 +0700] [57777] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:19 +0700] [57777] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:19 +0700] [57777] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:20 +0700] [57777] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-15 11:21:21 +0700] [57820] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:21:21 +0700] [57820] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:21 +0700] [57820] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:22 +0700] [57820] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:22 +0700] [57820] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:23 +0700] [57820] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:23 +0700] [57820] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:24 +0700] [57820] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-15 11:21:24 +0700] [57820] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-15 11:21:25 +0700] [12886] [INFO] Handling signal: term
+[2025-04-15 11:21:25 +0700] [13107] [INFO] Worker exiting (pid: 13107)
+[2025-04-15 11:21:25 +0700] [12887] [INFO] Worker exiting (pid: 12887)
+[2025-04-15 11:21:25 +0700] [12888] [INFO] Worker exiting (pid: 12888)
+[2025-04-15 11:21:25 +0700] [56008] [INFO] Worker exiting (pid: 56008)
+[2025-04-15 11:21:25 +0700] [57820] [INFO] Listening at: http://0.0.0.0:4444 (57820)
+[2025-04-15 11:21:25 +0700] [57820] [INFO] Using worker: sync
+[2025-04-15 11:21:25 +0700] [57917] [INFO] Booting worker with pid: 57917
+[2025-04-15 11:21:25 +0700] [12886] [INFO] Shutting down: Master
+[2025-04-15 11:21:25 +0700] [57918] [INFO] Booting worker with pid: 57918
+[2025-04-15 11:21:25 +0700] [57919] [INFO] Booting worker with pid: 57919
+[2025-04-15 11:21:25 +0700] [57920] [INFO] Booting worker with pid: 57920
+[2025-04-15 11:21:31 +0700] [57820] [INFO] Handling signal: term
+[2025-04-15 11:21:31 +0700] [57919] [INFO] Worker exiting (pid: 57919)
+[2025-04-15 11:21:31 +0700] [57918] [INFO] Worker exiting (pid: 57918)
+[2025-04-15 11:21:31 +0700] [57920] [INFO] Worker exiting (pid: 57920)
+[2025-04-15 11:21:31 +0700] [57917] [INFO] Worker exiting (pid: 57917)
+[2025-04-15 11:21:31 +0700] [57820] [INFO] Shutting down: Master
+[2025-04-15 11:21:38 +0700] [58094] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:21:38 +0700] [58094] [INFO] Listening at: http://0.0.0.0:4444 (58094)
+[2025-04-15 11:21:38 +0700] [58094] [INFO] Using worker: sync
+[2025-04-15 11:21:38 +0700] [58096] [INFO] Booting worker with pid: 58096
+[2025-04-15 11:21:38 +0700] [58099] [INFO] Booting worker with pid: 58099
+[2025-04-15 11:21:38 +0700] [58102] [INFO] Booting worker with pid: 58102
+[2025-04-15 11:21:38 +0700] [58103] [INFO] Booting worker with pid: 58103
+[2025-04-15 11:22:17 +0700] [58094] [CRITICAL] WORKER TIMEOUT (pid:58102)
+[2025-04-15 11:22:17 +0700] [58102] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-15 11:22:17 +0700] [58102] [INFO] Worker exiting (pid: 58102)
+[2025-04-15 11:22:18 +0700] [58400] [INFO] Booting worker with pid: 58400
+[2025-04-15 11:23:48 +0700] [58094] [CRITICAL] WORKER TIMEOUT (pid:58400)
+[2025-04-15 11:23:48 +0700] [58400] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/sync.py", line 133, in handle
+    req = next(parser)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/parser.py", line 41, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 259, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 271, in parse
+    self.get_data(unreader, buf, stop=True)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/message.py", line 262, in get_data
+    data = unreader.read()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 36, in read
+    d = self.chunk()
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/http/unreader.py", line 63, in chunk
+    return self.sock.recv(self.mxchunk)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/venv/lib/python3.13/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+    ~~~~~~~~^^^
+SystemExit: 1
+[2025-04-15 11:23:48 +0700] [58400] [INFO] Worker exiting (pid: 58400)
+[2025-04-15 11:23:48 +0700] [58957] [INFO] Booting worker with pid: 58957
+[2025-04-15 11:53:06 +0700] [58094] [INFO] Handling signal: term
+[2025-04-15 11:53:06 +0700] [58096] [INFO] Worker exiting (pid: 58096)
+[2025-04-15 11:53:06 +0700] [58099] [INFO] Worker exiting (pid: 58099)
+[2025-04-15 11:53:06 +0700] [58103] [INFO] Worker exiting (pid: 58103)
+[2025-04-15 11:53:06 +0700] [58957] [INFO] Worker exiting (pid: 58957)
+[2025-04-15 11:53:06 +0700] [58094] [INFO] Shutting down: Master
+[2025-04-15 11:53:37 +0700] [70096] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:53:37 +0700] [70096] [INFO] Listening at: http://0.0.0.0:4444 (70096)
+[2025-04-15 11:53:37 +0700] [70096] [INFO] Using worker: sync
+[2025-04-15 11:53:37 +0700] [70097] [INFO] Booting worker with pid: 70097
+[2025-04-15 11:53:37 +0700] [70098] [INFO] Booting worker with pid: 70098
+[2025-04-15 11:53:37 +0700] [70101] [INFO] Booting worker with pid: 70101
+[2025-04-15 11:53:37 +0700] [70102] [INFO] Booting worker with pid: 70102
+[2025-04-15 11:57:33 +0700] [70096] [INFO] Handling signal: term
+[2025-04-15 11:57:33 +0700] [70102] [INFO] Worker exiting (pid: 70102)
+[2025-04-15 11:57:33 +0700] [70101] [INFO] Worker exiting (pid: 70101)
+[2025-04-15 11:57:33 +0700] [70098] [INFO] Worker exiting (pid: 70098)
+[2025-04-15 11:57:33 +0700] [70097] [INFO] Worker exiting (pid: 70097)
+[2025-04-15 11:57:33 +0700] [70096] [INFO] Shutting down: Master
+[2025-04-15 11:57:37 +0700] [71667] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 11:57:37 +0700] [71667] [INFO] Listening at: http://0.0.0.0:4444 (71667)
+[2025-04-15 11:57:37 +0700] [71667] [INFO] Using worker: sync
+[2025-04-15 11:57:37 +0700] [71668] [INFO] Booting worker with pid: 71668
+[2025-04-15 11:57:37 +0700] [71672] [INFO] Booting worker with pid: 71672
+[2025-04-15 11:57:37 +0700] [71673] [INFO] Booting worker with pid: 71673
+[2025-04-15 11:57:37 +0700] [71674] [INFO] Booting worker with pid: 71674
+[2025-04-15 13:41:29 +0700] [71667] [INFO] Handling signal: term
+[2025-04-15 13:41:29 +0700] [71673] [INFO] Worker exiting (pid: 71673)
+[2025-04-15 13:41:29 +0700] [71672] [INFO] Worker exiting (pid: 71672)
+[2025-04-15 13:41:29 +0700] [71668] [INFO] Worker exiting (pid: 71668)
+[2025-04-15 13:41:29 +0700] [71674] [INFO] Worker exiting (pid: 71674)
+[2025-04-15 13:41:29 +0700] [71667] [INFO] Shutting down: Master
+[2025-04-15 13:41:38 +0700] [79343] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 13:41:38 +0700] [79343] [INFO] Listening at: http://0.0.0.0:4444 (79343)
+[2025-04-15 13:41:38 +0700] [79343] [INFO] Using worker: sync
+[2025-04-15 13:41:38 +0700] [79357] [INFO] Booting worker with pid: 79357
+[2025-04-15 13:41:39 +0700] [79360] [INFO] Booting worker with pid: 79360
+[2025-04-15 13:41:39 +0700] [79361] [INFO] Booting worker with pid: 79361
+[2025-04-15 13:41:39 +0700] [79362] [INFO] Booting worker with pid: 79362
+[2025-04-15 13:52:59 +0700] [79343] [INFO] Handling signal: term
+[2025-04-15 13:52:59 +0700] [79362] [INFO] Worker exiting (pid: 79362)
+[2025-04-15 13:52:59 +0700] [79360] [INFO] Worker exiting (pid: 79360)
+[2025-04-15 13:52:59 +0700] [79361] [INFO] Worker exiting (pid: 79361)
+[2025-04-15 13:52:59 +0700] [79357] [INFO] Worker exiting (pid: 79357)
+[2025-04-15 13:52:59 +0700] [79343] [INFO] Shutting down: Master
+[2025-04-15 14:21:25 +0700] [94934] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 14:21:25 +0700] [94934] [INFO] Listening at: http://0.0.0.0:4444 (94934)
+[2025-04-15 14:21:25 +0700] [94934] [INFO] Using worker: sync
+[2025-04-15 14:21:25 +0700] [94935] [INFO] Booting worker with pid: 94935
+[2025-04-15 14:21:25 +0700] [94936] [INFO] Booting worker with pid: 94936
+[2025-04-15 14:21:25 +0700] [94939] [INFO] Booting worker with pid: 94939
+[2025-04-15 14:21:25 +0700] [94940] [INFO] Booting worker with pid: 94940
+[2025-04-15 14:39:50 +0700] [94934] [INFO] Handling signal: term
+[2025-04-15 14:39:50 +0700] [94939] [INFO] Worker exiting (pid: 94939)
+[2025-04-15 14:39:50 +0700] [94935] [INFO] Worker exiting (pid: 94935)
+[2025-04-15 14:39:50 +0700] [94940] [INFO] Worker exiting (pid: 94940)
+[2025-04-15 14:39:50 +0700] [94936] [INFO] Worker exiting (pid: 94936)
+[2025-04-15 14:39:51 +0700] [94934] [INFO] Shutting down: Master
+[2025-04-15 14:39:54 +0700] [2630] [INFO] Starting gunicorn 23.0.0
+[2025-04-15 14:39:54 +0700] [2630] [INFO] Listening at: http://0.0.0.0:4444 (2630)
+[2025-04-15 14:39:54 +0700] [2630] [INFO] Using worker: sync
+[2025-04-15 14:39:54 +0700] [2631] [INFO] Booting worker with pid: 2631
+[2025-04-15 14:39:54 +0700] [2634] [INFO] Booting worker with pid: 2634
+[2025-04-15 14:39:54 +0700] [2635] [INFO] Booting worker with pid: 2635
+[2025-04-15 14:39:54 +0700] [2636] [INFO] Booting worker with pid: 2636
+[2025-04-15 14:42:26 +0700] [2630] [INFO] Handling signal: term
+[2025-04-15 14:42:26 +0700] [2635] [INFO] Worker exiting (pid: 2635)
+[2025-04-15 14:42:26 +0700] [2631] [INFO] Worker exiting (pid: 2631)
+[2025-04-15 14:42:26 +0700] [2634] [INFO] Worker exiting (pid: 2634)
+[2025-04-15 14:42:26 +0700] [2636] [INFO] Worker exiting (pid: 2636)
+[2025-04-15 14:42:26 +0700] [2630] [INFO] Shutting down: Master
+[2025-04-16 15:59:01 +0700] [28594] [INFO] Starting gunicorn 21.2.0
+[2025-04-16 15:59:01 +0700] [28594] [INFO] Listening at: http://0.0.0.0:4444 (28594)
+[2025-04-16 15:59:01 +0700] [28594] [INFO] Using worker: sync
+[2025-04-16 15:59:01 +0700] [28599] [INFO] Booting worker with pid: 28599
+[2025-04-16 15:59:01 +0700] [28600] [INFO] Booting worker with pid: 28600
+[2025-04-16 15:59:01 +0700] [28601] [INFO] Booting worker with pid: 28601
+[2025-04-16 15:59:01 +0700] [28602] [INFO] Booting worker with pid: 28602
+[2025-04-16 15:59:45 +0700] [28594] [INFO] Handling signal: term
+[2025-04-16 15:59:45 +0700] [28599] [INFO] Worker exiting (pid: 28599)
+[2025-04-16 15:59:45 +0700] [28600] [INFO] Worker exiting (pid: 28600)
+[2025-04-16 15:59:45 +0700] [28601] [INFO] Worker exiting (pid: 28601)
+[2025-04-16 15:59:45 +0700] [28602] [INFO] Worker exiting (pid: 28602)
+[2025-04-16 15:59:45 +0700] [28594] [INFO] Shutting down: Master
+[2025-04-16 16:04:14 +0700] [30754] [INFO] Starting gunicorn 21.2.0
+[2025-04-16 16:04:14 +0700] [30754] [INFO] Listening at: http://0.0.0.0:4444 (30754)
+[2025-04-16 16:04:14 +0700] [30754] [INFO] Using worker: sync
+[2025-04-16 16:04:14 +0700] [30755] [INFO] Booting worker with pid: 30755
+[2025-04-16 16:04:14 +0700] [30756] [INFO] Booting worker with pid: 30756
+[2025-04-16 16:04:14 +0700] [30757] [INFO] Booting worker with pid: 30757
+[2025-04-16 16:04:14 +0700] [30758] [INFO] Booting worker with pid: 30758
+[2025-04-16 16:05:10 +0700] [30754] [INFO] Handling signal: term
+[2025-04-16 16:05:10 +0700] [30757] [INFO] Worker exiting (pid: 30757)
+[2025-04-16 16:05:10 +0700] [30755] [INFO] Worker exiting (pid: 30755)
+[2025-04-16 16:05:10 +0700] [30756] [INFO] Worker exiting (pid: 30756)
+[2025-04-16 16:05:10 +0700] [30758] [INFO] Worker exiting (pid: 30758)
+[2025-04-16 16:05:10 +0700] [30754] [INFO] Shutting down: Master
+[2025-04-16 16:19:03 +0700] [36997] [INFO] Starting gunicorn 21.2.0
+[2025-04-16 16:19:03 +0700] [36997] [INFO] Listening at: http://0.0.0.0:4444 (36997)
+[2025-04-16 16:19:03 +0700] [36997] [INFO] Using worker: sync
+[2025-04-16 16:19:03 +0700] [36998] [INFO] Booting worker with pid: 36998
+[2025-04-16 16:19:03 +0700] [37010] [INFO] Booting worker with pid: 37010
+[2025-04-16 16:19:03 +0700] [37016] [INFO] Booting worker with pid: 37016
+[2025-04-16 16:19:03 +0700] [37017] [INFO] Booting worker with pid: 37017
+[2025-04-16 16:22:10 +0700] [36997] [INFO] Handling signal: term
+[2025-04-16 16:22:10 +0700] [36998] [INFO] Worker exiting (pid: 36998)
+[2025-04-16 16:22:10 +0700] [37016] [INFO] Worker exiting (pid: 37016)
+[2025-04-16 16:22:10 +0700] [37017] [INFO] Worker exiting (pid: 37017)
+[2025-04-16 16:22:10 +0700] [37010] [INFO] Worker exiting (pid: 37010)
+[2025-04-16 16:22:10 +0700] [36997] [INFO] Shutting down: Master
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:24:50] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:25:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:25:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:25:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:25:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:25:28] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:32:23] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:40:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:19] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:40:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:40:53] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:42:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:42:19] "GET / HTTP/1.1" 304 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4444
+ * Running on http://172.16.0.54:4444
+Press CTRL+C to quit
+127.0.0.1 - - [16/Apr/2025 16:42:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:42:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Apr/2025 16:42:47] "GET /view-db-b.html HTTP/1.1" 304 -
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+Usage: python -m flask run [OPTIONS]
+Try 'python -m flask run --help' for help.
+
+Error: While importing 'web', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/py39/lib/python3.9/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/Users/apple/Workspace/anhdh.write/py-databackup/web.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+
+[2025-04-16 17:17:13 +0700] [62936] [INFO] Starting gunicorn 23.0.0
+[2025-04-16 17:17:13 +0700] [62936] [INFO] Listening at: http://0.0.0.0:4444 (62936)
+[2025-04-16 17:17:13 +0700] [62936] [INFO] Using worker: sync
+[2025-04-16 17:17:13 +0700] [62939] [INFO] Booting worker with pid: 62939
+[2025-04-16 17:17:13 +0700] [62940] [INFO] Booting worker with pid: 62940
+[2025-04-16 17:17:13 +0700] [62941] [INFO] Booting worker with pid: 62941
+[2025-04-16 17:17:13 +0700] [62953] [INFO] Booting worker with pid: 62953
+[2025-04-16 17:17:39 +0700] [62936] [INFO] Handling signal: term
+[2025-04-16 17:17:39 +0700] [62953] [INFO] Worker exiting (pid: 62953)
+[2025-04-16 17:17:39 +0700] [62941] [INFO] Worker exiting (pid: 62941)
+[2025-04-16 17:17:39 +0700] [62939] [INFO] Worker exiting (pid: 62939)
+[2025-04-16 17:17:39 +0700] [62940] [INFO] Worker exiting (pid: 62940)
+[2025-04-16 17:17:39 +0700] [62936] [INFO] Shutting down: Master
+[2025-04-16 17:55:28 +0700] [79369] [INFO] Starting gunicorn 23.0.0
+[2025-04-16 17:55:28 +0700] [79369] [INFO] Listening at: http://0.0.0.0:4444 (79369)
+[2025-04-16 17:55:28 +0700] [79369] [INFO] Using worker: sync
+[2025-04-16 17:55:28 +0700] [79370] [INFO] Booting worker with pid: 79370
+[2025-04-16 17:55:28 +0700] [79371] [INFO] Booting worker with pid: 79371
+[2025-04-16 17:55:28 +0700] [79372] [INFO] Booting worker with pid: 79372
+[2025-04-16 17:55:28 +0700] [79373] [INFO] Booting worker with pid: 79373
+[2025-04-17 09:16:16 +0700] [5666] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:16 +0700] [5666] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:16 +0700] [5666] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:17 +0700] [5666] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:17 +0700] [5666] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:18 +0700] [5666] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:18 +0700] [5666] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:19 +0700] [5666] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:19 +0700] [5666] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:20 +0700] [5666] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:20 +0700] [5666] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:21 +0700] [5666] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:21 +0700] [5711] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:21 +0700] [5711] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:21 +0700] [5711] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:22 +0700] [5711] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:22 +0700] [5711] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:23 +0700] [5711] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:23 +0700] [5711] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:24 +0700] [5711] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:24 +0700] [5711] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:25 +0700] [5711] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:25 +0700] [5711] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:26 +0700] [5711] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:27 +0700] [5753] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:27 +0700] [5753] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:27 +0700] [5753] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:28 +0700] [5753] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:28 +0700] [5753] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:29 +0700] [5753] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:29 +0700] [5753] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:30 +0700] [5753] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:30 +0700] [5753] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:31 +0700] [5753] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:31 +0700] [5753] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:32 +0700] [5753] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:33 +0700] [5800] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:33 +0700] [5800] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:33 +0700] [5800] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:34 +0700] [5800] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:34 +0700] [5800] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:35 +0700] [5800] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:35 +0700] [5800] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:36 +0700] [5800] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:36 +0700] [5800] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:37 +0700] [5800] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:37 +0700] [5800] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:38 +0700] [5800] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:39 +0700] [5843] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:39 +0700] [5843] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:39 +0700] [5843] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:40 +0700] [5843] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:40 +0700] [5843] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:41 +0700] [5843] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:41 +0700] [5843] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:42 +0700] [5843] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:42 +0700] [5843] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:43 +0700] [5843] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:43 +0700] [5843] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:44 +0700] [5843] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:45 +0700] [5884] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:45 +0700] [5884] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:45 +0700] [5884] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:46 +0700] [5884] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:46 +0700] [5884] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:47 +0700] [5884] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:47 +0700] [5884] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:48 +0700] [5884] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:48 +0700] [5884] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:49 +0700] [5884] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:49 +0700] [5884] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:50 +0700] [5884] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:52 +0700] [5926] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:52 +0700] [5926] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:52 +0700] [5926] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:53 +0700] [5926] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:53 +0700] [5926] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:54 +0700] [5926] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:54 +0700] [5926] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:55 +0700] [5926] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:55 +0700] [5926] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:56 +0700] [5926] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:56 +0700] [5926] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:57 +0700] [5926] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:16:58 +0700] [5967] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:16:58 +0700] [5967] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:58 +0700] [5967] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:16:59 +0700] [5967] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:16:59 +0700] [5967] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:00 +0700] [5967] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:00 +0700] [5967] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:01 +0700] [5967] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:01 +0700] [5967] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:02 +0700] [5967] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:02 +0700] [5967] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:03 +0700] [5967] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:17:04 +0700] [6013] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:17:04 +0700] [6013] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:04 +0700] [6013] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:05 +0700] [6013] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:05 +0700] [6013] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:06 +0700] [6013] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:06 +0700] [6013] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:07 +0700] [6013] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:07 +0700] [6013] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:08 +0700] [6013] [ERROR] Connection in use: ('0.0.0.0', 4444)
+[2025-04-17 09:17:08 +0700] [6013] [ERROR] connection to ('0.0.0.0', 4444) failed: [Errno 48] Address already in use
+[2025-04-17 09:17:09 +0700] [6013] [ERROR] Can't connect to ('0.0.0.0', 4444)
+[2025-04-17 09:21:01 +0700] [8892] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:21:01 +0700] [8892] [INFO] Listening at: http://0.0.0.0:4444 (8892)
+[2025-04-17 09:21:01 +0700] [8892] [INFO] Using worker: sync
+[2025-04-17 09:21:01 +0700] [8905] [INFO] Booting worker with pid: 8905
+[2025-04-17 09:21:01 +0700] [8906] [INFO] Booting worker with pid: 8906
+[2025-04-17 09:21:01 +0700] [8907] [INFO] Booting worker with pid: 8907
+[2025-04-17 09:21:01 +0700] [8908] [INFO] Booting worker with pid: 8908
+[2025-04-17 09:21:14 +0700] [8892] [INFO] Handling signal: term
+[2025-04-17 09:21:14 +0700] [8905] [INFO] Worker exiting (pid: 8905)
+[2025-04-17 09:21:14 +0700] [8907] [INFO] Worker exiting (pid: 8907)
+[2025-04-17 09:21:14 +0700] [8906] [INFO] Worker exiting (pid: 8906)
+[2025-04-17 09:21:14 +0700] [8908] [INFO] Worker exiting (pid: 8908)
+[2025-04-17 09:21:15 +0700] [8892] [INFO] Shutting down: Master
+[2025-04-17 09:21:30 +0700] [9126] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:21:30 +0700] [9126] [INFO] Listening at: http://0.0.0.0:4444 (9126)
+[2025-04-17 09:21:30 +0700] [9126] [INFO] Using worker: sync
+[2025-04-17 09:21:30 +0700] [9128] [INFO] Booting worker with pid: 9128
+[2025-04-17 09:21:30 +0700] [9129] [INFO] Booting worker with pid: 9129
+[2025-04-17 09:21:30 +0700] [9130] [INFO] Booting worker with pid: 9130
+[2025-04-17 09:21:30 +0700] [9131] [INFO] Booting worker with pid: 9131
+[2025-04-17 09:23:15 +0700] [9126] [INFO] Handling signal: term
+[2025-04-17 09:23:15 +0700] [9130] [INFO] Worker exiting (pid: 9130)
+[2025-04-17 09:23:15 +0700] [9131] [INFO] Worker exiting (pid: 9131)
+[2025-04-17 09:23:15 +0700] [9128] [INFO] Worker exiting (pid: 9128)
+[2025-04-17 09:23:15 +0700] [9129] [INFO] Worker exiting (pid: 9129)
+[2025-04-17 09:23:16 +0700] [9126] [INFO] Shutting down: Master
+[2025-04-17 09:28:50 +0700] [12103] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:28:50 +0700] [12103] [INFO] Listening at: http://0.0.0.0:4444 (12103)
+[2025-04-17 09:28:50 +0700] [12103] [INFO] Using worker: sync
+[2025-04-17 09:28:50 +0700] [12104] [INFO] Booting worker with pid: 12104
+[2025-04-17 09:28:51 +0700] [12105] [INFO] Booting worker with pid: 12105
+[2025-04-17 09:28:51 +0700] [12106] [INFO] Booting worker with pid: 12106
+[2025-04-17 09:28:51 +0700] [12109] [INFO] Booting worker with pid: 12109
+[2025-04-17 09:29:02 +0700] [12103] [INFO] Handling signal: term
+[2025-04-17 09:29:02 +0700] [12106] [INFO] Worker exiting (pid: 12106)
+[2025-04-17 09:29:02 +0700] [12104] [INFO] Worker exiting (pid: 12104)
+[2025-04-17 09:29:02 +0700] [12105] [INFO] Worker exiting (pid: 12105)
+[2025-04-17 09:29:05 +0700] [12109] [INFO] Worker exiting (pid: 12109)
+[2025-04-17 09:29:05 +0700] [12103] [INFO] Shutting down: Master
+[2025-04-17 09:45:11 +0700] [18761] [INFO] Starting gunicorn 23.0.0
+[2025-04-17 09:45:11 +0700] [18761] [INFO] Listening at: http://0.0.0.0:4444 (18761)
+[2025-04-17 09:45:11 +0700] [18761] [INFO] Using worker: sync
+[2025-04-17 09:45:11 +0700] [18762] [INFO] Booting worker with pid: 18762
+[2025-04-17 09:45:11 +0700] [18763] [INFO] Booting worker with pid: 18763
+[2025-04-17 09:45:11 +0700] [18764] [INFO] Booting worker with pid: 18764
+[2025-04-17 09:45:11 +0700] [18765] [INFO] Booting worker with pid: 18765
+[2025-04-17 09:45:20 +0700] [18761] [INFO] Handling signal: term
+[2025-04-17 09:45:20 +0700] [18763] [INFO] Worker exiting (pid: 18763)
+[2025-04-17 09:45:20 +0700] [18762] [INFO] Worker exiting (pid: 18762)
+[2025-04-17 09:45:20 +0700] [18764] [INFO] Worker exiting (pid: 18764)
+[2025-04-17 09:45:20 +0700] [18765] [INFO] Worker exiting (pid: 18765)
+[2025-04-17 09:45:20 +0700] [18761] [INFO] Shutting down: Master

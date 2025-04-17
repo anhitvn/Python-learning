@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Database Monitor</title>
+    <style>
+        /* ...existing styles... */
+        .view-switch {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+        .view-switch button {
+            padding: 10px 20px;
+            margin: 0 5px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+        }
+        .view-switch button.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .view {
+            display: none;
+        }
+        .view.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav-links" style="position: fixed; top: 20px; right: 20px;">
+        <a href="/">View Connections</a>
+    </div>
+
+    <div class="view-switch" style="position: fixed; top: 50px; right: 20px;">
+        <button id="connectionsBtn" class="active">Connections</button>
+        <button id="permissionsBtn">Show Database env2</button>
+    </div>
+
+    <div id="connectionsView" class="view active">
+        <!-- Existing connections table content -->
+    </div>
+
+    <div id="permissionsView" class="view">
+        <!-- New permissions table will be here -->
+    </div>
+
+    <script>
+        const API_HOST = window.location.hostname + ':5001';
+
+        // View switching
+        const connectionsBtn = document.getElementById('connectionsBtn');
+        const permissionsBtn = document.getElementById('permissionsBtn');
+        const connectionsView = document.getElementById('connectionsView');
+        const permissionsView = document.getElementById('permissionsView');
+
+        connectionsBtn.addEventListener('click', () => switchView('connections'));
+        permissionsBtn.addEventListener('click', () => switchView('permissions'));
+
+        function switchView(view) {
+            if (view === 'connections') {
+                connectionsBtn.classList.add('active');
+                permissionsBtn.classList.remove('active');
+                connectionsView.classList.add('active');
+                permissionsView.classList.remove('active');
+                loadConnections();
+            } else {
+                connectionsBtn.classList.remove('active');
+                permissionsBtn.classList.add('active');
+                connectionsView.classList.remove('active');
+                permissionsView.classList.add('active');
+                loadPermissions();
+            }
+        }
+
+        async function loadPermissions() {
+            try {
+                const response = await fetch(`http://${API_HOST}/api/db_showb`);
+                const data = await response.json();
+                showdb_b(data);
+            } catch (error) {
+                console.error('Error loading permissions:', error);
+            }
+        }
+
+        function showdb_b(data) {
+            const view = document.getElementById('permissionsView');
+            let html = '<h2>Database Permissions</h2>';
+
+            // Summary section
+            html += `<div class="summary">
+                <p>Total Databases: ${data.summary.total}</p>
+                <p>PostgreSQL: ${data.summary.postgres}</p>
+                <p>MySQL: ${data.summary.mysql}</p>
+                <p>MongoDB: ${data.summary.mongodb}</p>
+            </div>`;
+
+            // Group databases by type
+            const groupedDbs = data.databases.reduce((acc, db) => {
+                if (!acc[db.type]) acc[db.type] = [];
+                acc[db.type].push(db);
+                return acc;
+            }, {});
+
+            // Display each type in separate tables
+            for (const [type, databases] of Object.entries(groupedDbs)) {
+                html += `
+                    <h3>${type} Databases</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>STT</th>
+                                <th>Database Name</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${databases.map((db, index) => `
+                                <tr>
+                                    <td>${index + 1}</td>
+                                    <td>${db.database}</td>
+                                    <td>${db.status}</td>
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    </table>
+                `;
+            }
+
+            view.innerHTML = html;
+        }
+
+        // Initial load of connections
+        loadConnections();
+    </script>
+</body>
+</html>

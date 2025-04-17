@@ -16,6 +16,9 @@
     </style>
 </head>
 <body>
+    <div class="nav-links" style="position: fixed; top: 20px; right: 20px;">
+        <a href="/view-db-b.html">View Permissions</a>
+    </div>
     <div class="container mt-4">
         <h2>Database Connections Status <small class="text-muted" id="last-update"></small></h2>
         <div class="table-responsive">
@@ -61,12 +64,12 @@
                 // Clear existing data
                 const tbody = document.getElementById('connections-table');
                 tbody.innerHTML = '';
-                
+
                 // Get initial connections
                 const response = await fetch(`http://${API_HOST}/api/connections`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const data = await response.json();
-                
+
                 // Create initial table with "Testing..." speeds
                 data.forEach((conn, index) => {
                     tbody.innerHTML += `
@@ -84,15 +87,15 @@
                         </tr>
                     `;
                 });
-                
+
                 // Wait for speed test
                 await new Promise(resolve => setTimeout(resolve, 5000));
-                
+
                 // Get updated speeds
                 const refreshResponse = await fetch(`http://${API_HOST}/api/refresh`);
                 if (!refreshResponse.ok) throw new Error(`HTTP error! status: ${refreshResponse.status}`);
                 const refreshData = await refreshResponse.json();
-                
+
                 // Update only speed cells
                 refreshData.forEach(conn => {
                     const row = document.querySelector(`tr[data-db-name="${conn.name}"]`);
@@ -103,13 +106,13 @@
                     }
                 });
 
-                document.getElementById('last-update').textContent = 
+                document.getElementById('last-update').textContent =
                     `(Last updated: ${new Date().toLocaleTimeString()})`;
 
             } catch (error) {
                 console.error('Error:', error);
                 // Thêm hiển thị lỗi cho người dùng
-                document.getElementById('connections-table').innerHTML = 
+                document.getElementById('connections-table').innerHTML =
                     `<tr><td colspan="6" class="text-danger">Error connecting to server: ${error.message}</td></tr>`;
             } finally {
                 refreshBtn.classList.remove('loading');

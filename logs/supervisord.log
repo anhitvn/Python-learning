@@ -1,0 +1,678 @@
+2025-04-14 12:12:20,441 INFO supervisord started with pid 40211
+2025-04-14 12:12:21,444 INFO spawned: 'db-monitor-api_00' with pid 40215
+2025-04-14 12:12:21,446 INFO spawned: 'db-monitor-web_00' with pid 40216
+2025-04-14 12:12:22,475 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 12:12:22,475 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 12:14:27,687 WARN received SIGINT indicating exit request
+2025-04-14 12:14:27,688 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 12:14:27,805 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 12:14:27,926 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 12:14:43,755 INFO supervisord started with pid 43340
+2025-04-14 12:14:44,758 INFO spawned: 'db-monitor-api_00' with pid 43378
+2025-04-14 12:14:44,759 INFO spawned: 'db-monitor-web_00' with pid 43379
+2025-04-14 12:14:46,163 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 12:14:46,163 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:33:34,279 WARN received SIGINT indicating exit request
+2025-04-14 13:33:34,281 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 13:33:34,395 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 13:33:34,518 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 13:33:36,435 INFO supervisord started with pid 85570
+2025-04-14 13:33:37,438 INFO spawned: 'db-monitor-api_00' with pid 85612
+2025-04-14 13:33:37,440 INFO spawned: 'db-monitor-web_00' with pid 85613
+2025-04-14 13:33:38,958 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:33:38,958 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:37:57,210 WARN received SIGINT indicating exit request
+2025-04-14 13:37:57,212 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 13:37:57,333 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 13:37:57,501 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 13:38:04,003 INFO supervisord started with pid 90286
+2025-04-14 13:38:05,006 INFO spawned: 'db-monitor-api_00' with pid 90325
+2025-04-14 13:38:05,007 INFO spawned: 'db-monitor-web_00' with pid 90326
+2025-04-14 13:38:06,433 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:38:06,433 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:39:14,717 WARN received SIGINT indicating exit request
+2025-04-14 13:39:14,719 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 13:39:14,837 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 13:39:14,994 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 13:39:42,839 INFO supervisord started with pid 92133
+2025-04-14 13:39:43,842 INFO spawned: 'db-monitor-api_00' with pid 92171
+2025-04-14 13:39:43,844 INFO spawned: 'db-monitor-web_00' with pid 92172
+2025-04-14 13:39:45,298 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:39:45,299 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:40:08,580 WARN received SIGINT indicating exit request
+2025-04-14 13:40:08,581 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 13:40:08,700 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 13:40:08,811 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 13:48:36,983 INFO supervisord started with pid 1799
+2025-04-14 13:48:37,987 INFO spawned: 'db-monitor-api_00' with pid 1838
+2025-04-14 13:48:37,988 INFO spawned: 'db-monitor-web_00' with pid 1839
+2025-04-14 13:48:39,400 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 13:48:39,400 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:17:37,264 WARN received SIGINT indicating exit request
+2025-04-14 14:17:37,266 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:17:37,384 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:17:39,045 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:17:39,045 WARN received SIGINT indicating exit request
+2025-04-14 14:17:41,361 INFO supervisord started with pid 34213
+2025-04-14 14:17:42,368 INFO spawned: 'db-monitor-api_00' with pid 34251
+2025-04-14 14:17:42,371 INFO spawned: 'db-monitor-web_00' with pid 34252
+2025-04-14 14:17:43,780 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:17:43,780 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:24:30,378 WARN received SIGINT indicating exit request
+2025-04-14 14:24:30,379 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:24:30,603 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:24:30,734 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:24:33,450 INFO supervisord started with pid 41631
+2025-04-14 14:24:34,453 INFO spawned: 'db-monitor-api_00' with pid 41634
+2025-04-14 14:24:34,454 INFO spawned: 'db-monitor-web_00' with pid 41635
+2025-04-14 14:24:35,871 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:24:35,871 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:25:09,847 WARN received SIGINT indicating exit request
+2025-04-14 14:25:09,848 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:25:09,963 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:25:10,056 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:25:17,040 INFO supervisord started with pid 42567
+2025-04-14 14:25:18,043 INFO spawned: 'db-monitor-api_00' with pid 42572
+2025-04-14 14:25:18,044 INFO spawned: 'db-monitor-web_00' with pid 42573
+2025-04-14 14:25:19,270 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:25:19,271 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:42:45,500 WARN received SIGINT indicating exit request
+2025-04-14 14:42:45,501 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:42:45,621 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:42:45,731 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:42:47,916 INFO supervisord started with pid 60988
+2025-04-14 14:42:48,919 INFO spawned: 'db-monitor-api_00' with pid 60991
+2025-04-14 14:42:48,921 INFO spawned: 'db-monitor-web_00' with pid 60992
+2025-04-14 14:42:50,618 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:42:50,618 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:43:24,504 WARN received SIGINT indicating exit request
+2025-04-14 14:43:24,505 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:43:24,624 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:43:24,790 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:43:29,516 INFO supervisord started with pid 61801
+2025-04-14 14:43:30,518 INFO spawned: 'db-monitor-api_00' with pid 61804
+2025-04-14 14:43:30,520 INFO spawned: 'db-monitor-web_00' with pid 61805
+2025-04-14 14:43:32,182 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:43:32,183 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:46:41,338 WARN received SIGINT indicating exit request
+2025-04-14 14:46:41,340 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 14:46:41,461 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 14:46:41,578 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 14:46:44,334 INFO supervisord started with pid 65971
+2025-04-14 14:46:45,385 INFO spawned: 'db-monitor-api_00' with pid 65974
+2025-04-14 14:46:45,387 INFO spawned: 'db-monitor-web_00' with pid 65975
+2025-04-14 14:46:47,126 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 14:46:47,126 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 15:00:23,510 WARN received SIGINT indicating exit request
+2025-04-14 15:00:23,512 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 15:00:23,630 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-14 15:00:23,744 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 22:09:33,700 INFO supervisord started with pid 35707
+2025-04-14 22:09:34,703 INFO spawned: 'db-monitor-api_00' with pid 35719
+2025-04-14 22:09:34,705 INFO spawned: 'db-monitor-web_00' with pid 35720
+2025-04-14 22:09:36,299 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 22:09:36,299 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 22:15:41,400 INFO supervisord started with pid 40675
+2025-04-14 22:15:42,403 INFO spawned: 'db-monitor-api_00' with pid 40701
+2025-04-14 22:15:42,404 INFO spawned: 'db-monitor-web_00' with pid 40702
+2025-04-14 22:15:42,530 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-14 22:15:43,490 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 22:15:43,490 WARN received SIGINT indicating exit request
+2025-04-14 22:15:43,491 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:15:46,493 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:15:47,514 WARN stopped: db-monitor-web_00 (exit status 1)
+2025-04-14 22:16:09,064 WARN received SIGINT indicating exit request
+2025-04-14 22:16:09,065 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:16:10,123 WARN received SIGINT indicating exit request
+2025-04-14 22:16:12,126 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:16:15,130 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:16:18,133 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-14 22:16:19,135 WARN killing 'db-monitor-web_00' (35720) with SIGKILL
+2025-04-14 22:16:20,137 WARN stopped: db-monitor-web_00 (terminated by SIGKILL)
+2025-04-14 22:16:20,344 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-14 22:16:23,270 INFO supervisord started with pid 41289
+2025-04-14 22:16:24,273 INFO spawned: 'db-monitor-api_00' with pid 41291
+2025-04-14 22:16:24,274 INFO spawned: 'db-monitor-web_00' with pid 41293
+2025-04-14 22:16:25,359 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-14 22:16:25,359 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 09:05:47,055 WARN received SIGINT indicating exit request
+2025-04-15 09:05:47,056 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 09:05:50,064 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 09:05:53,068 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 09:05:56,071 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 09:05:57,073 WARN killing 'db-monitor-web_00' (41293) with SIGKILL
+2025-04-15 09:05:58,075 WARN stopped: db-monitor-web_00 (terminated by SIGKILL)
+2025-04-15 09:05:58,187 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 09:26:52,211 INFO supervisord started with pid 12870
+2025-04-15 09:26:53,213 INFO spawned: 'db-monitor-api_00' with pid 12885
+2025-04-15 09:26:53,215 INFO spawned: 'db-monitor-web_00' with pid 12886
+2025-04-15 09:26:54,626 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 09:26:54,626 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:20,098 INFO supervisord started with pid 55729
+2025-04-15 11:16:21,101 INFO spawned: 'db-monitor-api_00' with pid 55732
+2025-04-15 11:16:21,102 INFO spawned: 'db-monitor-web_00' with pid 55733
+2025-04-15 11:16:21,248 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-15 11:16:22,202 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:23,206 INFO spawned: 'db-monitor-api_00' with pid 55750
+2025-04-15 11:16:23,347 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-15 11:16:26,223 INFO spawned: 'db-monitor-api_00' with pid 55778
+2025-04-15 11:16:26,240 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:26,352 INFO spawned: 'db-monitor-web_00' with pid 55779
+2025-04-15 11:16:26,370 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-15 11:16:27,467 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:29,476 INFO spawned: 'db-monitor-api_00' with pid 55796
+2025-04-15 11:16:29,832 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-15 11:16:30,482 INFO gave up: db-monitor-api_00 entered FATAL state, too many start retries too quickly
+2025-04-15 11:16:31,503 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:32,508 INFO spawned: 'db-monitor-web_00' with pid 55824
+2025-04-15 11:16:33,616 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:37,673 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:38,677 INFO spawned: 'db-monitor-web_00' with pid 55869
+2025-04-15 11:16:39,771 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:43,813 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:44,818 INFO spawned: 'db-monitor-web_00' with pid 55911
+2025-04-15 11:16:45,917 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:49,968 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:50,974 INFO spawned: 'db-monitor-web_00' with pid 55951
+2025-04-15 11:16:52,071 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:16:56,118 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:16:57,123 INFO spawned: 'db-monitor-web_00' with pid 55992
+2025-04-15 11:16:58,229 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:02,282 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:03,287 INFO spawned: 'db-monitor-web_00' with pid 56035
+2025-04-15 11:17:04,386 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:08,421 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:09,425 INFO spawned: 'db-monitor-web_00' with pid 56064
+2025-04-15 11:17:10,507 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:14,556 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:15,562 INFO spawned: 'db-monitor-web_00' with pid 56105
+2025-04-15 11:17:16,661 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:20,714 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:21,719 INFO spawned: 'db-monitor-web_00' with pid 56151
+2025-04-15 11:17:22,821 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:26,869 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:27,874 INFO spawned: 'db-monitor-web_00' with pid 56190
+2025-04-15 11:17:28,971 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:33,021 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:34,026 INFO spawned: 'db-monitor-web_00' with pid 56234
+2025-04-15 11:17:35,124 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:39,175 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:40,181 INFO spawned: 'db-monitor-web_00' with pid 56273
+2025-04-15 11:17:41,280 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:45,328 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:46,334 INFO spawned: 'db-monitor-web_00' with pid 56314
+2025-04-15 11:17:47,439 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:51,481 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:52,486 INFO spawned: 'db-monitor-web_00' with pid 56355
+2025-04-15 11:17:53,583 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:17:57,634 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:17:58,637 INFO spawned: 'db-monitor-web_00' with pid 56397
+2025-04-15 11:17:59,700 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:03,748 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:04,753 INFO spawned: 'db-monitor-web_00' with pid 56438
+2025-04-15 11:18:05,850 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:09,878 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:10,883 INFO spawned: 'db-monitor-web_00' with pid 56478
+2025-04-15 11:18:11,981 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:16,015 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:17,021 INFO spawned: 'db-monitor-web_00' with pid 56519
+2025-04-15 11:18:18,117 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:22,162 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:23,167 INFO spawned: 'db-monitor-web_00' with pid 56561
+2025-04-15 11:18:24,269 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:28,317 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:29,321 INFO spawned: 'db-monitor-web_00' with pid 56603
+2025-04-15 11:18:30,401 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:34,442 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:35,445 INFO spawned: 'db-monitor-web_00' with pid 56644
+2025-04-15 11:18:36,532 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:40,561 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:41,563 INFO spawned: 'db-monitor-web_00' with pid 56699
+2025-04-15 11:18:42,644 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:46,686 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:47,689 INFO spawned: 'db-monitor-web_00' with pid 56738
+2025-04-15 11:18:48,841 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:52,867 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:53,870 INFO spawned: 'db-monitor-web_00' with pid 56781
+2025-04-15 11:18:54,961 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:18:58,992 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:18:59,998 INFO spawned: 'db-monitor-web_00' with pid 56821
+2025-04-15 11:19:01,102 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:05,150 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:06,153 INFO spawned: 'db-monitor-web_00' with pid 56862
+2025-04-15 11:19:07,239 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:11,287 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:12,290 INFO spawned: 'db-monitor-web_00' with pid 56903
+2025-04-15 11:19:13,361 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:17,407 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:18,410 INFO spawned: 'db-monitor-web_00' with pid 56942
+2025-04-15 11:19:19,504 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:23,547 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:24,551 INFO spawned: 'db-monitor-web_00' with pid 56987
+2025-04-15 11:19:25,633 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:29,671 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:30,676 INFO spawned: 'db-monitor-web_00' with pid 57027
+2025-04-15 11:19:31,773 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:35,817 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:36,822 INFO spawned: 'db-monitor-web_00' with pid 57068
+2025-04-15 11:19:37,927 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:41,974 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:42,981 INFO spawned: 'db-monitor-web_00' with pid 57109
+2025-04-15 11:19:44,087 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:48,127 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:49,130 INFO spawned: 'db-monitor-web_00' with pid 57150
+2025-04-15 11:19:50,210 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:19:54,245 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:19:55,248 INFO spawned: 'db-monitor-web_00' with pid 57191
+2025-04-15 11:19:56,336 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:00,376 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:01,378 INFO spawned: 'db-monitor-web_00' with pid 57231
+2025-04-15 11:20:02,443 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:06,489 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:07,491 INFO spawned: 'db-monitor-web_00' with pid 57274
+2025-04-15 11:20:08,566 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:12,611 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:13,613 INFO spawned: 'db-monitor-web_00' with pid 57316
+2025-04-15 11:20:14,691 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:18,721 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:19,724 INFO spawned: 'db-monitor-web_00' with pid 57344
+2025-04-15 11:20:20,821 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:24,857 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:25,862 INFO spawned: 'db-monitor-web_00' with pid 57385
+2025-04-15 11:20:26,961 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:31,001 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:32,004 INFO spawned: 'db-monitor-web_00' with pid 57427
+2025-04-15 11:20:33,075 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:37,156 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:38,159 INFO spawned: 'db-monitor-web_00' with pid 57471
+2025-04-15 11:20:39,231 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:43,279 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:44,285 INFO spawned: 'db-monitor-web_00' with pid 57515
+2025-04-15 11:20:45,384 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:49,439 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:50,444 INFO spawned: 'db-monitor-web_00' with pid 57554
+2025-04-15 11:20:51,541 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:20:55,575 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:20:56,578 INFO spawned: 'db-monitor-web_00' with pid 57598
+2025-04-15 11:20:57,646 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:01,674 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:21:02,677 INFO spawned: 'db-monitor-web_00' with pid 57655
+2025-04-15 11:21:03,770 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:07,810 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:21:08,813 INFO spawned: 'db-monitor-web_00' with pid 57696
+2025-04-15 11:21:09,885 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:13,937 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:21:14,940 INFO spawned: 'db-monitor-web_00' with pid 57777
+2025-04-15 11:21:16,027 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:20,060 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-15 11:21:21,066 INFO spawned: 'db-monitor-web_00' with pid 57820
+2025-04-15 11:21:22,170 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:25,146 WARN received SIGINT indicating exit request
+2025-04-15 11:21:25,146 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 11:21:25,263 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 11:21:25,370 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 11:21:31,344 WARN received SIGINT indicating exit request
+2025-04-15 11:21:31,345 INFO waiting for db-monitor-web_00 to die
+2025-04-15 11:21:31,467 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 11:21:37,529 INFO supervisord started with pid 58078
+2025-04-15 11:21:38,531 INFO spawned: 'db-monitor-api_00' with pid 58093
+2025-04-15 11:21:38,532 INFO spawned: 'db-monitor-web_00' with pid 58094
+2025-04-15 11:21:39,909 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:21:39,910 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:53:06,553 WARN received SIGINT indicating exit request
+2025-04-15 11:53:06,555 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 11:53:06,674 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 11:53:06,856 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 11:53:36,247 INFO supervisord started with pid 70080
+2025-04-15 11:53:37,250 INFO spawned: 'db-monitor-api_00' with pid 70095
+2025-04-15 11:53:37,251 INFO spawned: 'db-monitor-web_00' with pid 70096
+2025-04-15 11:53:38,668 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:53:38,669 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:57:33,821 WARN received SIGINT indicating exit request
+2025-04-15 11:57:33,823 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 11:57:33,945 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 11:57:34,085 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 11:57:36,577 INFO supervisord started with pid 71651
+2025-04-15 11:57:37,579 INFO spawned: 'db-monitor-api_00' with pid 71666
+2025-04-15 11:57:37,580 INFO spawned: 'db-monitor-web_00' with pid 71667
+2025-04-15 11:57:38,984 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 11:57:38,985 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 13:41:29,713 WARN received SIGINT indicating exit request
+2025-04-15 13:41:29,715 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 13:41:29,832 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 13:41:30,208 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 13:41:37,878 INFO supervisord started with pid 79339
+2025-04-15 13:41:38,881 INFO spawned: 'db-monitor-api_00' with pid 79342
+2025-04-15 13:41:38,883 INFO spawned: 'db-monitor-web_00' with pid 79343
+2025-04-15 13:41:40,337 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 13:41:40,337 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 13:52:59,549 WARN received SIGINT indicating exit request
+2025-04-15 13:52:59,550 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 13:52:59,669 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 13:53:00,271 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 14:21:24,558 INFO supervisord started with pid 94923
+2025-04-15 14:21:25,561 INFO spawned: 'db-monitor-api_00' with pid 94933
+2025-04-15 14:21:25,563 INFO spawned: 'db-monitor-web_00' with pid 94934
+2025-04-15 14:21:26,981 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 14:21:26,981 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 14:39:50,955 WARN received SIGINT indicating exit request
+2025-04-15 14:39:50,956 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 14:39:51,071 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 14:39:51,236 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-15 14:39:53,287 INFO supervisord started with pid 2626
+2025-04-15 14:39:54,289 INFO spawned: 'db-monitor-api_00' with pid 2629
+2025-04-15 14:39:54,290 INFO spawned: 'db-monitor-web_00' with pid 2630
+2025-04-15 14:39:55,696 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 14:39:55,696 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-15 14:42:26,694 WARN received SIGINT indicating exit request
+2025-04-15 14:42:26,696 INFO waiting for db-monitor-api_00, db-monitor-web_00 to die
+2025-04-15 14:42:26,812 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-15 14:42:27,204 INFO stopped: db-monitor-api_00 (exit status 0)
+2025-04-16 15:58:59,486 INFO supervisord started with pid 28562
+2025-04-16 15:59:00,489 INFO spawned: 'db-monitor-api_00' with pid 28593
+2025-04-16 15:59:00,491 INFO spawned: 'db-monitor-web_00' with pid 28594
+2025-04-16 15:59:01,631 INFO success: db-monitor-api_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 15:59:01,631 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 15:59:01,657 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 15:59:02,828 INFO spawned: 'db-monitor-api_00' with pid 28621
+2025-04-16 15:59:03,151 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 15:59:04,160 INFO spawned: 'db-monitor-api_00' with pid 28624
+2025-04-16 15:59:04,468 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 15:59:06,473 INFO spawned: 'db-monitor-api_00' with pid 28640
+2025-04-16 15:59:06,614 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 15:59:09,619 INFO spawned: 'db-monitor-api_00' with pid 28672
+2025-04-16 15:59:09,745 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 15:59:10,747 INFO gave up: db-monitor-api_00 entered FATAL state, too many start retries too quickly
+2025-04-16 15:59:45,793 WARN received SIGINT indicating exit request
+2025-04-16 15:59:45,794 INFO waiting for db-monitor-web_00 to die
+2025-04-16 15:59:45,915 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-16 16:04:12,983 INFO supervisord started with pid 30740
+2025-04-16 16:04:13,990 INFO spawned: 'db-monitor-api_00' with pid 30753
+2025-04-16 16:04:13,993 INFO spawned: 'db-monitor-web_00' with pid 30754
+2025-04-16 16:04:14,173 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:04:15,319 INFO spawned: 'db-monitor-api_00' with pid 30764
+2025-04-16 16:04:15,320 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:04:15,496 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:04:17,499 INFO spawned: 'db-monitor-api_00' with pid 30795
+2025-04-16 16:04:17,612 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:04:20,620 INFO spawned: 'db-monitor-api_00' with pid 30818
+2025-04-16 16:04:20,770 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:04:21,773 INFO gave up: db-monitor-api_00 entered FATAL state, too many start retries too quickly
+2025-04-16 16:05:10,826 WARN received SIGINT indicating exit request
+2025-04-16 16:05:10,828 INFO waiting for db-monitor-web_00 to die
+2025-04-16 16:05:10,943 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-16 16:19:01,950 INFO supervisord started with pid 36991
+2025-04-16 16:19:02,957 INFO spawned: 'db-monitor-api_00' with pid 36996
+2025-04-16 16:19:02,961 INFO spawned: 'db-monitor-web_00' with pid 36997
+2025-04-16 16:19:03,193 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:19:04,236 INFO spawned: 'db-monitor-api_00' with pid 37018
+2025-04-16 16:19:04,237 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:19:04,364 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:19:06,369 INFO spawned: 'db-monitor-api_00' with pid 37038
+2025-04-16 16:19:06,491 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:19:09,496 INFO spawned: 'db-monitor-api_00' with pid 37063
+2025-04-16 16:19:09,629 WARN exited: db-monitor-api_00 (exit status 1; not expected)
+2025-04-16 16:19:10,630 INFO gave up: db-monitor-api_00 entered FATAL state, too many start retries too quickly
+2025-04-16 16:22:10,853 WARN received SIGINT indicating exit request
+2025-04-16 16:22:10,856 INFO waiting for db-monitor-web_00 to die
+2025-04-16 16:22:10,971 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-16 16:24:46,239 INFO supervisord started with pid 39301
+2025-04-16 16:24:47,242 INFO spawned: 'db-monitor-api' with pid 39304
+2025-04-16 16:24:47,243 INFO spawned: 'db-monitor-web' with pid 39305
+2025-04-16 16:24:47,403 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:24:48,448 INFO spawned: 'db-monitor-api' with pid 39318
+2025-04-16 16:24:48,448 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:24:48,637 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:24:50,641 INFO spawned: 'db-monitor-api' with pid 39336
+2025-04-16 16:24:50,895 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:24:53,909 INFO spawned: 'db-monitor-api' with pid 39363
+2025-04-16 16:24:54,073 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:24:55,074 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:25:06,092 WARN received SIGINT indicating exit request
+2025-04-16 16:25:06,093 INFO waiting for db-monitor-web to die
+2025-04-16 16:25:06,098 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:25:25,304 INFO supervisord started with pid 39629
+2025-04-16 16:25:26,307 INFO spawned: 'db-monitor-api' with pid 39633
+2025-04-16 16:25:26,309 INFO spawned: 'db-monitor-web' with pid 39634
+2025-04-16 16:25:26,482 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:25:27,322 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:25:28,025 INFO spawned: 'db-monitor-api' with pid 39648
+2025-04-16 16:25:28,169 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:25:30,963 INFO spawned: 'db-monitor-api' with pid 39663
+2025-04-16 16:25:31,081 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:25:34,088 INFO spawned: 'db-monitor-api' with pid 39688
+2025-04-16 16:25:34,236 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:25:35,238 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:28:30,433 WARN received SIGINT indicating exit request
+2025-04-16 16:28:30,435 INFO waiting for db-monitor-web to die
+2025-04-16 16:28:30,440 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:32:21,870 INFO supervisord started with pid 42524
+2025-04-16 16:32:22,872 INFO spawned: 'db-monitor-api' with pid 42527
+2025-04-16 16:32:22,874 INFO spawned: 'db-monitor-web' with pid 42528
+2025-04-16 16:32:23,026 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:32:24,468 INFO spawned: 'db-monitor-api' with pid 42544
+2025-04-16 16:32:24,469 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:32:24,616 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:32:26,624 INFO spawned: 'db-monitor-api' with pid 42559
+2025-04-16 16:32:26,770 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:32:29,777 INFO spawned: 'db-monitor-api' with pid 42589
+2025-04-16 16:32:29,925 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:32:30,927 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:36:18,180 WARN received SIGINT indicating exit request
+2025-04-16 16:36:18,181 INFO waiting for db-monitor-web to die
+2025-04-16 16:36:18,183 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:40:14,137 INFO supervisord started with pid 47178
+2025-04-16 16:40:15,139 INFO spawned: 'db-monitor-api' with pid 47202
+2025-04-16 16:40:15,140 INFO spawned: 'db-monitor-web' with pid 47203
+2025-04-16 16:40:15,317 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:16,374 INFO spawned: 'db-monitor-api' with pid 47230
+2025-04-16 16:40:16,376 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:40:16,584 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:19,537 INFO spawned: 'db-monitor-api' with pid 47257
+2025-04-16 16:40:19,688 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:22,819 INFO spawned: 'db-monitor-api' with pid 47283
+2025-04-16 16:40:22,973 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:23,974 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:40:24,976 WARN received SIGINT indicating exit request
+2025-04-16 16:40:24,976 INFO waiting for db-monitor-web to die
+2025-04-16 16:40:24,977 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:40:43,590 INFO supervisord started with pid 47436
+2025-04-16 16:40:44,592 INFO spawned: 'db-monitor-api' with pid 47439
+2025-04-16 16:40:44,594 INFO spawned: 'db-monitor-web' with pid 47440
+2025-04-16 16:40:44,773 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:45,780 INFO spawned: 'db-monitor-api' with pid 47455
+2025-04-16 16:40:45,781 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:40:45,923 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:47,927 INFO spawned: 'db-monitor-api' with pid 47468
+2025-04-16 16:40:48,075 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:51,421 INFO spawned: 'db-monitor-api' with pid 47497
+2025-04-16 16:40:51,569 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:40:51,877 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:40:56,419 WARN received SIGINT indicating exit request
+2025-04-16 16:40:56,420 INFO waiting for db-monitor-web to die
+2025-04-16 16:40:56,421 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:42:13,539 INFO supervisord started with pid 48097
+2025-04-16 16:42:14,543 INFO spawned: 'db-monitor-api' with pid 48112
+2025-04-16 16:42:14,546 INFO spawned: 'db-monitor-web' with pid 48113
+2025-04-16 16:42:14,704 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:15,758 INFO spawned: 'db-monitor-api' with pid 48116
+2025-04-16 16:42:15,758 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:42:15,905 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:17,908 INFO spawned: 'db-monitor-api' with pid 48129
+2025-04-16 16:42:18,037 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:21,194 INFO spawned: 'db-monitor-api' with pid 48157
+2025-04-16 16:42:21,195 WARN received SIGINT indicating exit request
+2025-04-16 16:42:21,195 INFO waiting for db-monitor-api, db-monitor-web to die
+2025-04-16 16:42:21,197 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 16:42:21,198 WARN stopped: db-monitor-api (terminated by SIGTERM)
+2025-04-16 16:42:32,278 INFO supervisord started with pid 48263
+2025-04-16 16:42:33,282 INFO spawned: 'db-monitor-api' with pid 48279
+2025-04-16 16:42:33,283 INFO spawned: 'db-monitor-web' with pid 48280
+2025-04-16 16:42:33,425 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:34,427 INFO spawned: 'db-monitor-api' with pid 48281
+2025-04-16 16:42:34,428 INFO success: db-monitor-web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 16:42:34,557 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:37,523 INFO spawned: 'db-monitor-api' with pid 48309
+2025-04-16 16:42:37,655 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:40,661 INFO spawned: 'db-monitor-api' with pid 48337
+2025-04-16 16:42:40,794 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 16:42:41,796 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-16 16:43:00,618 WARN received SIGINT indicating exit request
+2025-04-16 16:43:00,619 INFO waiting for db-monitor-web to die
+2025-04-16 16:43:00,621 WARN stopped: db-monitor-web (terminated by SIGTERM)
+2025-04-16 17:00:59,391 INFO supervisord started with pid 56247
+2025-04-16 17:01:00,395 INFO spawned: 'db-monitor-api' with pid 56262
+2025-04-16 17:01:00,398 INFO spawned: 'db-monitor-web' with pid 56263
+2025-04-16 17:01:00,592 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:01:00,750 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 17:01:01,752 INFO spawned: 'db-monitor-api' with pid 56264
+2025-04-16 17:01:01,754 INFO spawned: 'db-monitor-web' with pid 56265
+2025-04-16 17:01:01,884 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:01:02,005 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 17:01:04,011 INFO spawned: 'db-monitor-api' with pid 56282
+2025-04-16 17:01:04,015 INFO spawned: 'db-monitor-web' with pid 56283
+2025-04-16 17:01:04,165 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:01:04,292 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-16 17:01:06,295 WARN received SIGINT indicating exit request
+2025-04-16 17:01:06,295 INFO waiting for db-monitor-api to die
+2025-04-16 17:01:07,297 WARN received SIGINT indicating exit request
+2025-04-16 17:05:42,506 INFO supervisord started with pid 58184
+2025-04-16 17:05:43,510 INFO spawned: 'db-monitor-api' with pid 58199
+2025-04-16 17:05:43,511 INFO spawned: 'db-monitor-web' with pid 58200
+2025-04-16 17:05:43,698 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:05:44,849 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:05:44,850 INFO spawned: 'db-monitor-web' with pid 58215
+2025-04-16 17:05:44,964 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:05:46,967 INFO spawned: 'db-monitor-web' with pid 58230
+2025-04-16 17:05:47,098 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:05:50,105 INFO spawned: 'db-monitor-web' with pid 58245
+2025-04-16 17:05:50,243 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:05:51,244 INFO gave up: db-monitor-web entered FATAL state, too many start retries too quickly
+2025-04-16 17:06:14,271 WARN received SIGINT indicating exit request
+2025-04-16 17:06:14,273 INFO waiting for db-monitor-api to die
+2025-04-16 17:06:15,330 INFO stopped: db-monitor-api (exit status 0)
+2025-04-16 17:10:03,658 INFO supervisord started with pid 59969
+2025-04-16 17:10:04,660 INFO spawned: 'db-monitor-api' with pid 59984
+2025-04-16 17:10:04,661 INFO spawned: 'db-monitor-web' with pid 59985
+2025-04-16 17:10:04,811 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:10:06,406 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:10:06,426 INFO spawned: 'db-monitor-web' with pid 60001
+2025-04-16 17:10:06,582 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:10:08,586 INFO spawned: 'db-monitor-web' with pid 60025
+2025-04-16 17:10:08,733 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:10:11,740 INFO spawned: 'db-monitor-web' with pid 60054
+2025-04-16 17:10:11,891 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:10:12,892 INFO gave up: db-monitor-web entered FATAL state, too many start retries too quickly
+2025-04-16 17:10:22,904 WARN received SIGINT indicating exit request
+2025-04-16 17:10:22,906 INFO waiting for db-monitor-api to die
+2025-04-16 17:10:23,907 WARN received SIGINT indicating exit request
+2025-04-16 17:10:23,953 INFO stopped: db-monitor-api (exit status 0)
+2025-04-16 17:12:00,968 INFO supervisord started with pid 60763
+2025-04-16 17:12:01,971 INFO spawned: 'db-monitor-api' with pid 60764
+2025-04-16 17:12:01,973 INFO spawned: 'db-monitor-web' with pid 60765
+2025-04-16 17:12:02,160 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:12:03,310 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:12:03,311 INFO spawned: 'db-monitor-web' with pid 60780
+2025-04-16 17:12:03,426 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:12:05,433 INFO spawned: 'db-monitor-web' with pid 60796
+2025-04-16 17:12:05,591 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:12:08,595 INFO spawned: 'db-monitor-web' with pid 60832
+2025-04-16 17:12:08,716 WARN exited: db-monitor-web (exit status 2; not expected)
+2025-04-16 17:12:09,717 INFO gave up: db-monitor-web entered FATAL state, too many start retries too quickly
+2025-04-16 17:12:57,774 WARN received SIGINT indicating exit request
+2025-04-16 17:12:57,775 INFO waiting for db-monitor-api to die
+2025-04-16 17:12:58,776 WARN received SIGINT indicating exit request
+2025-04-16 17:12:58,847 INFO stopped: db-monitor-api (exit status 0)
+2025-04-16 17:17:12,438 INFO supervisord started with pid 62934
+2025-04-16 17:17:13,444 INFO spawned: 'db-monitor-api' with pid 62935
+2025-04-16 17:17:13,449 INFO spawned: 'db-monitor-web_00' with pid 62936
+2025-04-16 17:17:14,842 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:17:14,842 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:17:39,661 WARN received SIGINT indicating exit request
+2025-04-16 17:17:39,663 INFO waiting for db-monitor-api, db-monitor-web_00 to die
+2025-04-16 17:17:39,785 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-16 17:17:39,832 INFO stopped: db-monitor-api (exit status 0)
+2025-04-16 17:55:27,414 INFO supervisord started with pid 79365
+2025-04-16 17:55:28,417 INFO spawned: 'db-monitor-api' with pid 79368
+2025-04-16 17:55:28,419 INFO spawned: 'db-monitor-web_00' with pid 79369
+2025-04-16 17:55:29,796 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-16 17:55:29,797 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:14,952 INFO supervisord started with pid 5662
+2025-04-17 09:16:15,955 INFO spawned: 'db-monitor-api' with pid 5665
+2025-04-17 09:16:15,957 INFO spawned: 'db-monitor-web_00' with pid 5666
+2025-04-17 09:16:16,310 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-17 09:16:17,046 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:18,048 INFO spawned: 'db-monitor-api' with pid 5679
+2025-04-17 09:16:18,301 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-17 09:16:21,065 INFO spawned: 'db-monitor-api' with pid 5710
+2025-04-17 09:16:21,090 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:21,301 INFO spawned: 'db-monitor-web_00' with pid 5711
+2025-04-17 09:16:21,341 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-17 09:16:22,377 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:24,386 INFO spawned: 'db-monitor-api' with pid 5739
+2025-04-17 09:16:24,618 WARN exited: db-monitor-api (exit status 1; not expected)
+2025-04-17 09:16:25,392 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-17 09:16:26,422 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:27,425 INFO spawned: 'db-monitor-web_00' with pid 5753
+2025-04-17 09:16:28,524 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:32,565 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:33,570 INFO spawned: 'db-monitor-web_00' with pid 5800
+2025-04-17 09:16:34,672 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:38,712 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:39,717 INFO spawned: 'db-monitor-web_00' with pid 5843
+2025-04-17 09:16:40,818 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:44,859 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:45,863 INFO spawned: 'db-monitor-web_00' with pid 5884
+2025-04-17 09:16:46,964 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:51,008 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:52,014 INFO spawned: 'db-monitor-web_00' with pid 5926
+2025-04-17 09:16:53,115 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:16:57,154 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:16:58,159 INFO spawned: 'db-monitor-web_00' with pid 5967
+2025-04-17 09:16:59,261 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:17:03,308 WARN exited: db-monitor-web_00 (exit status 1; not expected)
+2025-04-17 09:17:04,310 INFO spawned: 'db-monitor-web_00' with pid 6013
+2025-04-17 09:17:05,393 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:17:09,407 WARN received SIGINT indicating exit request
+2025-04-17 09:17:09,408 INFO waiting for db-monitor-web_00 to die
+2025-04-17 09:17:09,436 WARN stopped: db-monitor-web_00 (exit status 1)
+2025-04-17 09:21:00,592 INFO supervisord started with pid 8886
+2025-04-17 09:21:01,595 INFO spawnerr: can't find command 'py'
+2025-04-17 09:21:01,597 INFO spawned: 'db-monitor-web_00' with pid 8892
+2025-04-17 09:21:02,945 INFO spawnerr: can't find command 'py'
+2025-04-17 09:21:02,945 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:21:04,948 INFO spawnerr: can't find command 'py'
+2025-04-17 09:21:07,953 INFO spawnerr: can't find command 'py'
+2025-04-17 09:21:07,953 INFO gave up: db-monitor-api entered FATAL state, too many start retries too quickly
+2025-04-17 09:21:14,961 WARN received SIGINT indicating exit request
+2025-04-17 09:21:14,961 INFO waiting for db-monitor-web_00 to die
+2025-04-17 09:21:15,079 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-17 09:21:29,546 INFO supervisord started with pid 9111
+2025-04-17 09:21:30,549 INFO spawned: 'db-monitor-api' with pid 9125
+2025-04-17 09:21:30,551 INFO spawned: 'db-monitor-web_00' with pid 9126
+2025-04-17 09:21:31,898 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:21:31,898 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:23:15,898 WARN received SIGINT indicating exit request
+2025-04-17 09:23:15,899 INFO waiting for db-monitor-api, db-monitor-web_00 to die
+2025-04-17 09:23:16,016 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-17 09:23:16,062 INFO stopped: db-monitor-api (exit status 0)
+2025-04-17 09:28:49,841 INFO supervisord started with pid 12087
+2025-04-17 09:28:50,847 INFO spawned: 'db-monitor-api' with pid 12102
+2025-04-17 09:28:50,849 INFO spawned: 'db-monitor-web_00' with pid 12103
+2025-04-17 09:28:52,218 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:28:52,218 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:29:02,780 WARN received SIGINT indicating exit request
+2025-04-17 09:29:02,781 INFO waiting for db-monitor-api, db-monitor-web_00 to die
+2025-04-17 09:29:03,787 WARN received SIGINT indicating exit request
+2025-04-17 09:29:04,789 WARN received SIGINT indicating exit request
+2025-04-17 09:29:05,192 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-17 09:29:05,234 INFO stopped: db-monitor-api (exit status 0)
+2025-04-17 09:45:10,558 INFO supervisord started with pid 18743
+2025-04-17 09:45:11,561 INFO spawned: 'db-monitor-api' with pid 18760
+2025-04-17 09:45:11,562 INFO spawned: 'db-monitor-web_00' with pid 18761
+2025-04-17 09:45:12,934 INFO success: db-monitor-api entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:45:12,934 INFO success: db-monitor-web_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-17 09:45:20,565 WARN received SIGINT indicating exit request
+2025-04-17 09:45:20,567 INFO waiting for db-monitor-api, db-monitor-web_00 to die
+2025-04-17 09:45:20,687 INFO stopped: db-monitor-web_00 (exit status 0)
+2025-04-17 09:45:20,726 INFO stopped: db-monitor-api (exit status 0)

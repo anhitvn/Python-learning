@@ -3,4 +3,4 @@
 supervisord -c supervisor.conf
 
 # Tail logs
-tail -f ./logs
+tail -f ./logs/db-monitor-*.log./
